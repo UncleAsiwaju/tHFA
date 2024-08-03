@@ -1,0 +1,1030 @@
+SubmissionDate,SubmissionDate
+starttime,starttime
+endtime,endtime
+deviceid,deviceid
+subscriberid,subscriberid
+simid,simid
+devicephonenum,devicephonenum
+username,username
+duration,duration
+caseid,caseid
+FI_1,FI_1 Survey date
+FI_2,FI_2 Interviewer name
+FI_3,FI_3 Country name
+Q102,Q102 Name of facility 
+Q100,Q100 Facility code
+Q100a,Q100a Facility sampling category
+Q105,Q105 Name of zone
+Q106,Q106 Name of district
+Q105_a,Q105_a Facility level form MFL
+Q106_a,Q106_a Country ISO Code
+Q109-Latitude,Q109-Latitude
+Q109-Longitude,Q109-Longitude
+Q109-Altitude,Q109-Altitude
+Q109-Accuracy,Q109-Accuracy
+tHFA_A004,"tHFA_A004 DID ANY OF THE FOLLOWING OCCUR WHILE THE SURVEY TEAM WAS ATTEMPTING TO LOCATE THE FACILITY AND BEGIN THE T-HFA VISIT?
+
+• FACILITY VISIT WAS POSTPONED
+• FACILITY WAS CLOSED
+• FACILITY WAS DESTROYED
+• FACILITY WAS NOT FOUND
+• OTHER SITUATION THAT PREVENTED COMPLETION OF THE SURVEY VISIT "
+CONSENT,"CONSENT OF PERSON IN CHARGE OF THE FACILITY ON THE DAY OF THE VISIT
+The [survey manager and survey implementer] in close collaboration with the [other relevant entities] are working to collect information about the availability of key health services in different facilities. This information will be collected in selected primary health care and secondary referral facilities across the country. The survey is part of the [government’s] ongoing efforts to understand what services are being offered and where they are being offered. The present study will be conducted across the country. Most facilities included in the survey were selected randomly from a list of all facilities in the country. As the in-charge of this facility, we are asking you to help us to collect the information from the persons who are most knowledgeable about the services. For any questions we ask, if there is another person who is in a better position to provide details, please feel free to refer us to that person. We will want to speak with persons familiar with the various services so that we can correctly identify the components of these services that are offered in this facility. We anticipate that the time required from an individual respondent to complete data collection from a service site may take from 5 to 10 minutes, depending on how busy each separate site is. Your participation in this survey is voluntary and at no cost to you as an individual. You may choose not to participate at all or to stop at any time before the end of the survey. You may also choose not to answer any question that you are not comfortable with. The information on service availability will be shared with the Ministry of Health (MOH) and other relevant stakeholders who support the MOH, to provide information for planning purposes. No names of any respondents will be shared. In case you have any question(s) about this survey at any time, please feel free to contact any of the following people:
+
+[LIST NAMES AND PHONE NUMBERS OF SURVEY MANAGEMENT PERSONS WHO CAN BE CONTACTED]
+
+Do I have your agreement to proceed?"
+CONSENT_1,Signature of team leader indicating informed consent was read and agreed by the person in-charge/acting in-charge.
+CONSENT_2,Signature of facility staff authorizing data collection and position of the person providing authorization.
+tHFA_A003,tHFA_A003 DESIGNATION OF THE PERSON WHO GAVE CONSENT
+Q112,Q112 Consent given by facility contact?
+Q113,Q113 Type of facility 
+Q113_A,Q113_A Please specify Other
+Q116,Q116 Which of the responses best describes the ownership for this facility?
+Q116_A,Q116_A Please specify Other
+Q117,Q117 RECORD FACILITY LOCATION: URBAN OR RURAL OR PERIURBAN
+Q118,Q118 Service levels available
+tHFA_A001,tHFA_A001 Which term best describes the level of care provided by this facility?
+tHFA_A002,tHFA_A002 What is the population of the catchment area for this facility? 
+tHFA_B059,tHFA_B059 FIND THE FACILITY STAFF PERSON WHO IS KNOWLEDGEABLE ABOUT THE TYPES OF SERVICES PROVIDED AT THE FACILITY AND THE INTERACTIONS BETWEEN CLIENTS AND THE FACILITY. RECORD THE DESIGNATION OF THE PERSON.
+tHFA_B035,"tHFA_B035 How much do you agree with the following statement? You can answer with strongly agree, agree, neither agree nor disagree, disagree, or strongly disagree.
+Clients that use this facility provide feedback on the quality of services at this facility."
+R1400,R1400 Does this facility offer diagnosis and/or treatment of malaria?
+tHFA_B060,tHFA_B060 RECORD THE DESIGNATION OF THE PERSON THAT YOU FOUND TO ANSWER QUESTIONS ABOUT MALARIA SERVICES.
+R1406,"R1406 Are national guidelines for the diagnosis and/or treatment of malaria available in this service site today?
+IF YES, ASK: May I see the guidelines?"
+R1810,R1810 Does this facility offer antenatal care (ANC) services?
+tHFA_B061,tHFA_B061 RECORD THE DESIGNATION OF THE PERSON THAT YOU FOUND TO ANSWER QUESTIONS ABOUT ANTENATAL SERVICES.
+R1817_01,R1817_01 I would like to know if the following guidelines are available in this service site today. Please show me the document on: National ANC guidelines.
+R2300,R2300 Does this facility offer HIV testing services?
+tHFA_B062,tHFA_B062 RECORD THE DESIGNATION OF THE PERSON THAT YOU FOUND TO ANSWER QUESTIONS ABOUT HIV TESTING SERVICES.
+R2308_01,R2308_01 I would like to know if the following guidelines are available in this service site today. Please show me the document on: National guidelines for HIV counselling and testing.
+tHFA_B039,tHFA_B039 Does the facility implement the WHO recommended 3 test HIV algorithm?
+tHFA_B042,tHFA_B042 Does this facility offer HIV CD4 testing services?
+tHFA_B043,tHFA_B043 Does this facility offer HIV viral load monitoring services?
+tHFA_B044,tHFA_B044 Does this facility offer HIV Early Infant Diagnostic (EID) testing services?
+R2312,R2312 Does this facility provide or prescribe ART or provide follow-up services for any ART patients?
+tHFA_B063,"tHFA_B063 RECORD THE DESIGNATION OF THE PERSON THAT YOU FOUND TO ANSWER QUESTIONS ABOUT HIV TREATMENT, CARE, AND SUPPORT SERVICES."
+R2315B_01,R2315B_01 I would like to know if the following guidelines are available in this service site today. Please show me the document on: National ART guidelines
+R2400,"R2400 Does this facility provide any services for tuberculosis? This includes case detection, diagnosis, prescribing treatment, patient clinical follow-up, patient follow-up for treatment adherence, and/or periodic resupply of individual patient medicines."
+tHFA_B064,tHFA_B064 RECORD THE DESIGNATION OF THE PERSON THAT YOU FOUND TO ANSWER QUESTIONS ABOUT TB TESTING AND DIAGNOSIS.
+R2419_01,R2419_01 National guidelines for diagnosis and management of TB in adults
+R2419_03,R2419_03 National guidelines for diagnosis and management of TB in children
+tHFA_B065,tHFA_B065 RECORD THE DESIGNATION OF THE PERSON THAT YOU FOUND TO ANSWER QUESTIONS ABOUT OXYGEN DELIVERY.
+R1323,R1323 Now I would like to know about the availability of oxygen for patients in the general outpatient service area or unit. Does this unit ever provide oxygen to patients?
+R1324,R1324 Is there any oxygen currently available in this unit?
+R1325_01A,R1325_01A Centrally piped oxygen supply AVAILABLE
+R1325_01B,R1325_01B Centrally piped oxygen supply FUNCTIONAL
+R1325_02A,R1325_02A Oxygen concentrator AVAILABLE
+R1325_02B,R1325_02B Oxygen concentrator FUNCTIONAL
+R1325_03A,"R1325_03A Oxygen tank or cylinder with attached pressure gauge, pressure regulator AVAILABLE"
+R1325_03B,"R1325_03B Oxygen tank or cylinder with attached pressure gauge, pressure regulator FUNCTIONAL"
+R1325_04A,"R1325_04A Flowmeter for oxygen source, with gradations in mL AVAILABLE"
+R1325_04B,"R1325_04B Flowmeter for oxygen source, with gradations in mL FUNCTIONAL"
+R1325_05A,R1325_05A Humidifier AVAILABLE
+R1325_05B,R1325_05B Humidifier FUNCTIONAL
+R1325_06A,R1325_06A Oxygen delivery apparatus (key connecting tubes and mask or nasal prongs) AVAILABLE
+R1325_06B,R1325_06B Oxygen delivery apparatus (key connecting tubes and mask or nasal prongs) FUNCTIONAL
+R1322_09A,R1322_09A Pulse oximeter AVAILABLE
+R1322_09B,R1322_09B Pulse oximeter FUNCTIONAL
+R1326,R1326 Can oxygen be brought to this unit from a different unit or facility location if needed?
+R2900,"R2900 Does this facility conduct any diagnostic testing of specimens using either laboratory equipment or rapid diagnostic tests with a dedicated laboratory in the facility? 
+This includes tests performed in a laboratory or in a service site at this facility, as well as sending a specimen outside for testing and receiving the results back."
+tHFA_B066,tHFA_B066 RECORD THE DESIGNATION OF THE PERSON THAT YOU FOUND TO ANSWER QUESTIONS ABOUT LABORATORY TESTS.
+tHFA_B001,tHFA_B001 Does this health facility comply with the national guidelines for essential diagnostics list or test menu? Please show me the document.
+EDL_TEST_01,EDL_TEST_01
+EDL_RESPONSE_01,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_01} IS CONDUCTED
+EDL_TEST_02,EDL_TEST_02
+EDL_RESPONSE_02,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_02} IS CONDUCTED
+EDL_TEST_03,EDL_TEST_03
+EDL_RESPONSE_03,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_03} IS CONDUCTED
+EDL_TEST_04,EDL_TEST_04
+EDL_RESPONSE_04,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_04} IS CONDUCTED
+EDL_TEST_05,EDL_TEST_05
+EDL_RESPONSE_05,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_05} IS CONDUCTED
+EDL_TEST_06,EDL_TEST_06
+EDL_RESPONSE_06,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_06} IS CONDUCTED
+EDL_TEST_07,EDL_TEST_07
+EDL_RESPONSE_07,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_07} IS CONDUCTED
+EDL_TEST_08,EDL_TEST_08
+EDL_RESPONSE_08,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_08} IS CONDUCTED
+EDL_TEST_09,EDL_TEST_09
+EDL_RESPONSE_09,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_09} IS CONDUCTED
+EDL_TEST_10,EDL_TEST_10
+EDL_RESPONSE_10,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_10} IS CONDUCTED
+EDL_TEST_11,EDL_TEST_11
+EDL_RESPONSE_11,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_11} IS CONDUCTED
+EDL_TEST_12,EDL_TEST_12
+EDL_RESPONSE_12,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_12} IS CONDUCTED
+EDL_TEST_13,EDL_TEST_13
+EDL_RESPONSE_13,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_13} IS CONDUCTED
+EDL_TEST_14,EDL_TEST_14
+EDL_RESPONSE_14,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_14} IS CONDUCTED
+EDL_TEST_15,EDL_TEST_15
+EDL_RESPONSE_15,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_15} IS CONDUCTED
+EDL_TEST_16,EDL_TEST_16
+EDL_RESPONSE_16,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_16} IS CONDUCTED
+EDL_TEST_17,EDL_TEST_17
+EDL_RESPONSE_17,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_17} IS CONDUCTED
+EDL_TEST_18,EDL_TEST_18
+EDL_RESPONSE_18,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_18} IS CONDUCTED
+EDL_TEST_19,EDL_TEST_19
+EDL_RESPONSE_19,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_19} IS CONDUCTED
+EDL_TEST_20,EDL_TEST_20
+EDL_RESPONSE_20,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_20} IS CONDUCTED
+EDL_TEST_21,EDL_TEST_21
+EDL_RESPONSE_21,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_21} IS CONDUCTED
+EDL_TEST_22,EDL_TEST_22
+EDL_RESPONSE_22,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_22} IS CONDUCTED
+EDL_TEST_23,EDL_TEST_23
+EDL_RESPONSE_23,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_23} IS CONDUCTED
+EDL_TEST_24,EDL_TEST_24
+EDL_RESPONSE_24,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_24} IS CONDUCTED
+EDL_TEST_25,EDL_TEST_25
+EDL_RESPONSE_25,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_25} IS CONDUCTED
+EDL_TEST_26,EDL_TEST_26
+EDL_RESPONSE_26,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_26} IS CONDUCTED
+EDL_TEST_27,EDL_TEST_27
+EDL_RESPONSE_27,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_27} IS CONDUCTED
+EDL_TEST_28,EDL_TEST_28
+EDL_RESPONSE_28,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_28} IS CONDUCTED
+EDL_TEST_29,EDL_TEST_29
+EDL_RESPONSE_29,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_29} IS CONDUCTED
+EDL_TEST_30,EDL_TEST_30
+EDL_RESPONSE_30,ASK THE LABORATORY STAFF PERSON IF ${EDL_TEST_30} IS CONDUCTED
+tHFA_B011,tHFA_B011 Does the laboratory use an integrated sample transport system for referral of samples?
+tHFA_B012,"tHFA_B012 Does the facility have an electronic Laboratory Information System (LIS)?
+ A Laboratory Information System implies a computer-based registry and software program that records and manages information on patient samples, type and number of tests performed, tracks orders and results related to lab tests, and/or has other functionalities relating to lab data management."
+tHFA_B013,tHFA_B013 Does the laboratory have an electronic test ordering and results return capability?
+tHFA_B014,tHFA_B014 Does the laboratory participate in an External Quality Assurance (EQA) program for HIV serology testing?
+tHFA_B040,tHFA_B040 Does the laboratory participate in an External Quality Assurance (EQA) program for HIV viral load monitoring?
+tHFA_B015,tHFA_B015 Does the laboratory participate in an External Quality Assurance (EQA) program for TB sputum microscopy?
+tHFA_B041,tHFA_B041 Does the laboratory participate in an External Quality Assurance (EQA) program for TB molecular tests?
+tHFA_B016,"tHFA_B016 Does the laboratory participate in an External Quality Assurance (EQA) program for malaria testing, including microscopy?"
+tHFA_B017,tHFA_B017 Does the laboratory participate in an External Quality Assurance (EQA) program for any other test?
+tHFA_B018,tHFA_B018 Have you or any laboratory staff received biosafety training in the past 2 years?
+tHFA_B019,tHFA_B019 Is molecular equipment at this facility used to test for one or more diseases?
+tHFA_B020_A,tHFA_B020_A HIV - Early infant diagnosis (EID)
+tHFA_B020_B,tHFA_B020_B HIV - Viral load (VL) monitoring
+tHFA_B020_C,tHFA_B020_C TB
+tHFA_B020_D,tHFA_B020_D COVID-19
+tHFA_B020_E,tHFA_B020_E Human Papilloma Virus (HPV)
+tHFA_B020_F,tHFA_B020_F Hepatitis C Virus (HCV)
+tHFA_B020_G,tHFA_B020_G Hepatitis B Virus (HBV)
+tHFA_B020_H,tHFA_B020_H Neisseria gonorrhea/Chlamydia 
+tHFA_B020_I,tHFA_B020_I Any Other test
+tHFA_B020_I1,tHFA_B020_I1 Please specify Other test
+tHFA_B020_I2,tHFA_B020_I2 Response for the Other specified test
+tHFA_B036,"tHFA_B036 Which method is primarily used to dispose of infectious and sharps healthcare waste? 
+DO NOT READ CHOICES. SELECT ONLY ONE CHOICE. INTERVIEWER MIGHT NEED TO PROBE (FOR EXAMPLE, IF THE RESPONDENT STATES THAT THE FACILITY BURNS WASTE IN A PIT, THE INTERVIEWER MUST ASK IF THE BURN PIT IS FENCED OR SECURED)."
+tHFA_B037,tHFA_B037 Is the primary method of waste disposal functional?
+tHFA_B038,tHFA_B038 Is the primary method of waste disposal of a sufficient capacity for the waste that is generated at this facility?
+tHFA_B067,tHFA_B067 RECORD THE DESIGNATION OF THE PERSON THAT YOU FOUND TO ANSWER QUESTIONS ABOUT COMMUNITY-LED MONITORING OR COMMUNITY-LEVEL HEALTH ACTIVITIES.
+tHFA_B021,"tHFA_B021 The community that this facility serves has trained community data collectors that routinely collect information on the availability, accessibility, acceptability, and quality of HIV, TB, or malaria services."
+tHFA_B022,tHFA_B022 The community provides feedback to this facility on (at least) a quarterly basis.
+tHFA_B045,tHFA_B045 This facility routinely analyzes and uses the community-led monitoring data for quality improvement.
+tHFA_B023,tHFA_B023 Health care staff at this facility are aware of the community-led monitoring mechanism. 
+tHFA_B024,tHFA_B024 Health care staff inform the clients at this facility of the existence of the community-led monitoring mechanism and promote its use.
+tHFA_B068,tHFA_B068 RECORD THE DESIGNATION OF THE PERSON THAT YOU FOUND TO ANSWER QUESTIONS ABOUT STAFFING AND STAFF WORK SCHEDULES.
+tHFA_B025,"tHFA_B025 How many staff that provide clinical services should be present at the facility today at this time? In other words, how many clinical providers are scheduled to be working at the facility today at this time?"
+tHFA_B026,"tHFA_B026 Of the clinical providers that should be present at the facility today at this time (from the previous question), how many are actually present at the facility at this time?"
+tHFA_B046,tHFA_B046 What is the total number of funded full-time posts at this facility? That includes filled and unfilled posts.
+tHFA_B047,tHFA_B047 How many funded full-time posts do you have at this facility that have not been filled for at least six months?
+tHFA_B048,tHFA_B048 What is the number of funded full-time posts at this facility for physicians? That includes filled and unfilled posts.
+tHFA_B049,tHFA_B049 How many funded full-time posts do you have at this facility for physicians that have not been filled for at least six months?
+tHFA_B050,tHFA_B050 What is the number of funded full-time posts at this facility for nurses and midwives? That includes filled and unfilled posts.
+tHFA_B051,tHFA_B051 How many funded full-time posts do you have at this facility for nurses and midwives that have not been filled for at least six months?
+tHFA_B052,tHFA_B052 What is the number of funded full-time posts at this facility for lab technicians? That includes filled and unfilled posts.
+tHFA_B053,tHFA_B053 How many funded full-time posts do you have at this facility for lab technicians that have not been filled for at least six months?
+tHFA_B054,tHFA_B054 What is the number of funded full-time posts at this facility for pharmacists? That includes filled and unfilled posts.
+tHFA_B055,tHFA_B055 How many funded full-time posts do you have at this facility for pharmacists that have not been filled for at least six months?
+tHFA_B056,tHFA_B056 What is the number of funded full-time posts at this facility for Health Surveillance Assistant (HSA)? That includes filled and unfilled posts.
+tHFA_B057,tHFA_B057 How many funded full-time posts do you have at this facility for Health Surveillance Assistants (HSA) that have not been filled for at least six months?
+tHFA_B069,tHFA_B069 RECORD THE DESIGNATION OF THE PERSON THAT YOU FOUND TO ANSWER QUESTIONS ABOUT STAFF AT THE FACILITY AND THEIR NON-CLINICAL FUNCTIONS.
+tHFA_B027,tHFA_B027 What percentage of your staff have been fully vaccinated against COVID-19 per the country guidelines? 
+tHFA_B029,"tHFA_B029 At the facility level, is there a routine process for reviewing data on facility services, outcomes, or patient feedback?"
+tHFA_B030,tHFA_B030 Does this facility routinely carry out quality assurance activities for any service areas?  By this I mean some formal review system or comparison of work or systems to a standard.
+tHFA_B031,tHFA_B031 Which of the following choices best describes how many clinical staff and cleaners at this facility have received training on infection prevention and control guidelines and standard operating procedures since they began working at this facility?
+R2000,R2000 Does this facility offer any preventive and/or curative care services for children under 5?
+tHFA_B070,tHFA_B070 RECORD THE DESIGNATION OF THE PERSON THAT YOU FOUND TO ANSWER QUESTIONS ABOUT CHILD PREVENTIVE AND CURATIVE CARE SERVICES.
+R2005_01,R2005_01 National IMCI guidelines for diagnosis and management of childhood illnesses
+R2100,"R2100 Does this facility offer any immunization services, for adults or children?"
+tHFA_B071,tHFA_B071 RECORD THE DESIGNATION OF THE PERSON THAT YOU FOUND TO ANSWER QUESTIONS ABOUT IMMUNIZATION SERVICES.
+R2119_01,R2119_01 National guidelines for routine child immunization 
+tHFA_B032,tHFA_B032 ENTER THE TOTAL NUMBER OF DPT1 DOSES ADMINISTERED AT THE FACILITY TO INFANTS (CHILDREN LESS THAN 12 MONTHS OLD) DURING THE LAST 4 COMPLETED CALENDAR QUARTERS.
+tHFA_B033,tHFA_B033 ENTER THE TOTAL NUMBER OF DPT3 DOSES ADMINISTERED AT THE FACILITY TO INFANTS (CHILDREN LESS THAN 12 MONTHS OLD) DURING THE LAST 4 COMPLETED CALENDAR QUARTERS.
+tHFA_B034,tHFA_B034 How many outpatients were seen at the facility yestraday?
+tHFA_B058_1,tHFA_B058_1 Select the date for last Monday.
+tHFA_B058_1a,tHFA_B058_1a How many outpatients were seen at the facility on last Monday?
+tHFA_B058_2,tHFA_B058_2 Select the date for last Tuesday.
+tHFA_B058_2a,tHFA_B058_2a How many outpatients were seen at the facility on last Tuesday?
+tHFA_B058_3,tHFA_B058_3 Select the date for last Wednesday.
+tHFA_B058_3a,tHFA_B058_3a How many outpatients were seen at the facility on last Wednesday?
+tHFA_B058_4,tHFA_B058_4 Select the date for last Thursday.
+tHFA_B058_4a,tHFA_B058_4a How many outpatients were seen at the facility on last Thursday?
+tHFA_B058_5,tHFA_B058_5 Select the date for last Friday.
+tHFA_B058_5a,tHFA_B058_5a How many outpatients were seen at the facility on last Friday?
+tHFA_C012,tHFA_C012 RECORD THE DESIGNATION OF THE PERSON THAT YOU FOUND TO ANSWER QUESTIONS ABOUT IMMUNIZATION SERVICES.
+M610,"M610 Does this facility receive any external supervision, such as from district, regional or national offices?"
+M611,M611 When was the last time a supervisor from outside this facility came here on a supervisory visit?
+tHFA_C001_A,"tHFA_C001_A Review data (for example, data from patient or lab registers, commodity stock records, community data, or summary statistics)"
+tHFA_C002_A,tHFA_C002_A Observe clinical consultations or lab functions
+tHFA_C003_A,tHFA_C003_A Give feedback to health workers
+tHFA_C004_A,tHFA_C004_A Answer health workers’ questions
+tHFA_C005_A,"tHFA_C005_A Provide on-the-spot training for health workers (for example, training on a new guideline, or how to perform a clinical task)"
+tHFA_C006_A,"tHFA_C006_A Discuss health activities that take place at the community level (for example, health education, household visits, or treatment of ill patients by Health Surveillance Assistants (HSA))"
+tHFA_C001_B,"tHFA_C001_B Review data (for example, data from patient or lab registers, commodity stock records, community data, or summary statistics)"
+tHFA_C002_B,tHFA_C002_B Observe clinical consultations or lab functions
+tHFA_C003_B,tHFA_C003_B Give feedback to health workers
+tHFA_C004_B,tHFA_C004_B Answer health workers’ questions
+tHFA_C005_B,"tHFA_C005_B Provide on-the-spot training for health workers (for example, training on a new guideline, or how to perform a clinical task)"
+tHFA_C006_B,"tHFA_C006_B Discuss health activities that take place at the community level (for example, health education, household visits, or treatment of ill patients by Health Surveillance Assistant (HSA)s)"
+tHFA_C001_C,"tHFA_C001_C Review data (for example, data from patient or lab registers, commodity stock records, community data, or summary statistics)"
+tHFA_C002_C,tHFA_C002_C Observe clinical consultations or lab functions
+tHFA_C003_C,tHFA_C003_C Give feedback to health workers
+tHFA_C004_C,tHFA_C004_C Answer health workers’ questions
+tHFA_C005_C,"tHFA_C005_C Provide on-the-spot training for health workers (for example, training on a new guideline, or how to perform a clinical task)"
+tHFA_C006_C,"tHFA_C006_C Discuss health activities that take place at the community level (for example, health education, household visits, or treatment of ill patients by Health Surveillance Assistants (HSA))"
+tHFA_C001_D,"tHFA_C001_D Review data (for example, data from patient or lab registers, commodity stock records, community data, or summary statistics)"
+tHFA_C002_D,tHFA_C002_D Observe clinical consultations or lab functions
+tHFA_C003_D,tHFA_C003_D Give feedback to health workers
+tHFA_C004_D,tHFA_C004_D Answer health workers’ questions
+tHFA_C005_D,"tHFA_C005_D Provide on-the-spot training for health workers (for example, training on a new guideline, or how to perform a clinical task)"
+tHFA_C006_D,"tHFA_C006_D Discuss health activities that take place at the community level (for example, health education, household visits, or treatment of ill patients by Health Surveillance Assistants)"
+tHFA_C001_E,"tHFA_C001_E Review data (for example, data from patient or lab registers, commodity stock records, community data, or summary statistics)"
+tHFA_C002_E,tHFA_C002_E Observe clinical consultations or lab functions
+tHFA_C003_E,tHFA_C003_E Give feedback to health workers
+tHFA_C004_E,tHFA_C004_E Answer health workers’ questions
+tHFA_C005_E,"tHFA_C005_E Provide on-the-spot training for health workers (for example, training on a new guideline, or how to perform a clinical task)"
+tHFA_C006_E,"tHFA_C006_E Discuss health activities that take place at the community level (for example, health education, household visits, or treatment of ill patients by Health Surveillance Assistants)"
+tHFA_C001_F,"tHFA_C001_F Review data (for example, data from patient or lab registers, commodity stock records, community data, or summary statistics)"
+tHFA_C002_F,tHFA_C002_F Observe clinical consultations or lab functions
+tHFA_C003_F,tHFA_C003_F Give feedback to health workers
+tHFA_C004_F,tHFA_C004_F Answer health workers’ questions
+tHFA_C005_F,"tHFA_C005_F Provide on-the-spot training for health workers (for example, training on a new guideline, or how to perform a clinical task)"
+tHFA_C006_F,"tHFA_C006_F Discuss health activities that take place at the community level (for example, health education, household visits, or treatment of ill patients by Health Surveillance Assistants)"
+tHFA_C007,"tHFA_C007 During the last external supervisory visit, were summary statistics related to program performance and quality presented and discussed? Summary statistics could be on any health area from any of the following sources: patient or lab registers, commodity stock records, community data or community activities, or other facility data. The supervisor did not have to give the presentation; the supervisor only needed to participate in the discussion."
+tHFA_C008,"tHFA_C008 During the last external supervisory visit, did the supervisor facilitate group problem-solving? Problem-solving means the supervisor was part of a formal or informal meeting or discussion in which a specific problem was identified and possible solutions to the problem were discussed. Group problem-solving means that the meeting or discussion involved at least two facility staff members."
+tHFA_C009,"tHFA_C009 Did the group problem-solving activity include a review of any kind of health data, such as: patient or lab registers, commodity stock records, community data or community activities, or summary statistics?"
+tHFA_C010,tHFA_C010 Are there Health Surveillance Assistants that work with this health facility or that report to this facility or that get support from this facility?
+tHFA_C011,"tHFA_C011 During the last external supervisory visit, did the supervisor review and discuss data on community-level activities provided by community health workers? This could include a simple discussion about which community activities had occurred in the preceding several months that involved Health Surveillance Assistants."
+PATIENT_EXIT_INTERVIEWS_count,PATIENT_EXIT_INTERVIEWS_count
+PE_Begin_1,"ENUMERATOR, DO HAVE PATIENT FOR THE EXIT INTERVIEWS? "
+PE_1_1,"PE_1 Hello, my name is [surveyor], and I am surveyor. Did you come to this health facility to seek health care? "
+PE_2_1,PE_2 Did you have a consultation with a health worker during your visit to the health facility today?
+PE_CONSENT_1,"PE_CONSENT_1 Signature of surveyor indicating informed consent was read and agreed by the patient or patient’s caregiver, if the patient is a child."
+PE_CONSENT_1_1,"CONSENT 
+The [survey manager and survey implementer] in close collaboration with the [other relevant entities] are working to collect information from patients about health services. The survey is part of the [government’s] ongoing efforts to understand the quality of health services. I would now like to ask you some questions about your visit to the health facility today. This may take from 10 to 15 minutes. I will not record your name, and your responses will be kept confidential. Your participation and your responses will not affect the care you might receive at this health facility in the future. Your participation in this survey is voluntary. You may choose not to participate at all, and you may stop at any time before the end of the survey. You may choose not to answer any question that you are not comfortable with. In case you have any questions about this survey at any time, please feel free to contact any of the following people:
+
+[LIST NAMES AND PHONE NUMBERS OF SURVEY MANAGEMENT PERSONS WHO CAN BE CONTACTED]
+
+Do I have your agreement to proceed?"
+PE_CONSENT_2_1,"PE_CONSENT_2 Signature of patient (or patient’s caregiver, if the patient is a child) authorizing data collection."
+PE_CONSENT_3_1,"PE_CONSENT_3 Consent given by patient or patient’s caregiver, if the patient is a child?"
+PREQ132_1,"PREQ132 During your visit to the health facility today, did your primary care professionals speak to you in a way you could understand?"
+PREQ122_1,"PREQ122 During your visit to the health facility today, did your primary care professionals treat you with respect?"
+tHFA_D006_1,"tHFA_D006 Thinking about your visit today, did you feel that any of the workers at the health facility shouted at you, scolded you, insulted you, threatened you, or talked to you rudely?"
+PREQ125_1,"PREQ125 During your visit to the health facility today, did you feel like you were involved in making decisions about your care as much as you wanted?"
+PREQ119_1,"PREQ119 During your visit to the health facility today, did you believe your primary care professionals would keep your information confidential?"
+PREQ129_1,"PREQ129 During your visit to the health facility today, did your primary care professionals discuss with you the care and support you receive from family members, friends, and others?"
+tHFA_D001_1,tHFA_D001 What is your age (or the child’s age if the patient is a child)? In completed years
+tHFA_D002_1,tHFA_D002 Record the patient’s sex
+tHFA_D003_1,"tHFA_D003 During your visit to the health facility today, did your primary care professionals tell you what illness you/your child has?"
+tHFA_D004_1,"tHFA_D004 During your visit to the health facility today, did your primary care professionals tell you about any illness signs or symptoms for which you must immediately come or bring the child back to a health facility?  "
+tHFA_D005_1,"tHFA_D005 IF YES, ASK: Can you tell me one of these signs or symptoms?"
+tHFA_D011_1,tHFA_D011_1 Please specify Other
+tHFA_D011_TOO_EXPENSIVE_1,tHFA_D011_TOO_EXPENSIVE_1
+tHFA_D011_TOO_FAR_1,tHFA_D011_TOO_FAR_1
+tHFA_D011_LONG_WAITING_TIME_1,tHFA_D011_LONG_WAITING_TIME_1
+tHFA_D011_FACILITY_OFTEN_CLOSED_1,tHFA_D011_FACILITY_OFTEN_CLOSED_1
+tHFA_D011_HEALTH_WORKERS_NOT_AVAILABLE_1,tHFA_D011_HEALTH_WORKERS_NOT_AVAILABLE_1
+tHFA_D011_HEALTH_WORKERS_NOT_RESPECTFUL_1,tHFA_D011_HEALTH_WORKERS_NOT_RESPECTFUL_1
+tHFA_D011_LACK_OF_TRANSPORT_TO_REACH_FACILITY_1,tHFA_D011_LACK_OF_TRANSPORT_TO_REACH_FACILITY_1
+tHFA_D011_POOR_QUALITY_OF_CARE_1,tHFA_D011_POOR_QUALITY_OF_CARE_1
+tHFA_D011_OTHERS_SPECIFY__1,tHFA_D011_OTHERS_SPECIFY__1
+tHFA_D011_DON_T_KNOW_1,tHFA_D011_DON_T_KNOW_1
+tHFA_D011_1_1,tHFA_D011 What are the key challenges/issues that you face while seeking care at this facility.?
+PE_Begin_2,"ENUMERATOR, DO HAVE PATIENT FOR THE EXIT INTERVIEWS? "
+PE_1_2,"PE_1 Hello, my name is [surveyor], and I am surveyor. Did you come to this health facility to seek health care? "
+PE_2_2,PE_2 Did you have a consultation with a health worker during your visit to the health facility today?
+PE_CONSENT_2,"PE_CONSENT_2 Signature of patient (or patient’s caregiver, if the patient is a child) authorizing data collection."
+PE_CONSENT_1_2,"PE_CONSENT_1 Signature of surveyor indicating informed consent was read and agreed by the patient or patient’s caregiver, if the patient is a child."
+PE_CONSENT_2_2,"CONSENT 
+The [survey manager and survey implementer] in close collaboration with the [other relevant entities] are working to collect information from patients about health services. The survey is part of the [government’s] ongoing efforts to understand the quality of health services. I would now like to ask you some questions about your visit to the health facility today. This may take from 10 to 15 minutes. I will not record your name, and your responses will be kept confidential. Your participation and your responses will not affect the care you might receive at this health facility in the future. Your participation in this survey is voluntary. You may choose not to participate at all, and you may stop at any time before the end of the survey. You may choose not to answer any question that you are not comfortable with. In case you have any questions about this survey at any time, please feel free to contact any of the following people:
+
+[LIST NAMES AND PHONE NUMBERS OF SURVEY MANAGEMENT PERSONS WHO CAN BE CONTACTED]
+
+Do I have your agreement to proceed?"
+PE_CONSENT_3_2,"PE_CONSENT_3 Consent given by patient or patient’s caregiver, if the patient is a child?"
+PREQ132_2,"PREQ132 During your visit to the health facility today, did your primary care professionals speak to you in a way you could understand?"
+PREQ122_2,"PREQ122 During your visit to the health facility today, did your primary care professionals treat you with respect?"
+tHFA_D006_2,"tHFA_D006 Thinking about your visit today, did you feel that any of the workers at the health facility shouted at you, scolded you, insulted you, threatened you, or talked to you rudely?"
+PREQ125_2,"PREQ125 During your visit to the health facility today, did you feel like you were involved in making decisions about your care as much as you wanted?"
+PREQ119_2,"PREQ119 During your visit to the health facility today, did you believe your primary care professionals would keep your information confidential?"
+PREQ129_2,"PREQ129 During your visit to the health facility today, did your primary care professionals discuss with you the care and support you receive from family members, friends, and others?"
+tHFA_D001_2,tHFA_D001 What is your age (or the child’s age if the patient is a child)? In completed years
+tHFA_D002_2,tHFA_D002 Record the patient’s sex
+tHFA_D003_2,"tHFA_D003 During your visit to the health facility today, did your primary care professionals tell you what illness you/your child has?"
+tHFA_D004_2,"tHFA_D004 During your visit to the health facility today, did your primary care professionals tell you about any illness signs or symptoms for which you must immediately come or bring the child back to a health facility?  "
+tHFA_D005_2,"tHFA_D005 IF YES, ASK: Can you tell me one of these signs or symptoms?"
+tHFA_D011_2,tHFA_D011 What are the key challenges/issues that you face while seeking care at this facility.?
+tHFA_D011_TOO_EXPENSIVE_2,tHFA_D011_TOO_EXPENSIVE_2
+tHFA_D011_TOO_FAR_2,tHFA_D011_TOO_FAR_2
+tHFA_D011_LONG_WAITING_TIME_2,tHFA_D011_LONG_WAITING_TIME_2
+tHFA_D011_FACILITY_OFTEN_CLOSED_2,tHFA_D011_FACILITY_OFTEN_CLOSED_2
+tHFA_D011_HEALTH_WORKERS_NOT_AVAILABLE_2,tHFA_D011_HEALTH_WORKERS_NOT_AVAILABLE_2
+tHFA_D011_HEALTH_WORKERS_NOT_RESPECTFUL_2,tHFA_D011_HEALTH_WORKERS_NOT_RESPECTFUL_2
+tHFA_D011_LACK_OF_TRANSPORT_TO_REACH_FACILITY_2,tHFA_D011_LACK_OF_TRANSPORT_TO_REACH_FACILITY_2
+tHFA_D011_POOR_QUALITY_OF_CARE_2,tHFA_D011_POOR_QUALITY_OF_CARE_2
+tHFA_D011_OTHERS_SPECIFY__2,tHFA_D011_OTHERS_SPECIFY__2
+tHFA_D011_DON_T_KNOW_2,tHFA_D011_DON_T_KNOW_2
+tHFA_D011_1_2,tHFA_D011_1 Please specify Other
+PE_Begin_3,"ENUMERATOR, DO HAVE PATIENT FOR THE EXIT INTERVIEWS? "
+PE_1_3,"PE_1 Hello, my name is [surveyor], and I am surveyor. Did you come to this health facility to seek health care? "
+PE_2_3,PE_2 Did you have a consultation with a health worker during your visit to the health facility today?
+PE_CONSENT_3,"PE_CONSENT_3 Consent given by patient or patient’s caregiver, if the patient is a child?"
+PE_CONSENT_1_3,"PE_CONSENT_1 Signature of surveyor indicating informed consent was read and agreed by the patient or patient’s caregiver, if the patient is a child."
+PE_CONSENT_2_3,"PE_CONSENT_2 Signature of patient (or patient’s caregiver, if the patient is a child) authorizing data collection."
+PE_CONSENT_3_3,"CONSENT 
+The [survey manager and survey implementer] in close collaboration with the [other relevant entities] are working to collect information from patients about health services. The survey is part of the [government’s] ongoing efforts to understand the quality of health services. I would now like to ask you some questions about your visit to the health facility today. This may take from 10 to 15 minutes. I will not record your name, and your responses will be kept confidential. Your participation and your responses will not affect the care you might receive at this health facility in the future. Your participation in this survey is voluntary. You may choose not to participate at all, and you may stop at any time before the end of the survey. You may choose not to answer any question that you are not comfortable with. In case you have any questions about this survey at any time, please feel free to contact any of the following people:
+
+[LIST NAMES AND PHONE NUMBERS OF SURVEY MANAGEMENT PERSONS WHO CAN BE CONTACTED]
+
+Do I have your agreement to proceed?"
+PREQ132_3,"PREQ132 During your visit to the health facility today, did your primary care professionals speak to you in a way you could understand?"
+PREQ122_3,"PREQ122 During your visit to the health facility today, did your primary care professionals treat you with respect?"
+tHFA_D006_3,"tHFA_D006 Thinking about your visit today, did you feel that any of the workers at the health facility shouted at you, scolded you, insulted you, threatened you, or talked to you rudely?"
+PREQ125_3,"PREQ125 During your visit to the health facility today, did you feel like you were involved in making decisions about your care as much as you wanted?"
+PREQ119_3,"PREQ119 During your visit to the health facility today, did you believe your primary care professionals would keep your information confidential?"
+PREQ129_3,"PREQ129 During your visit to the health facility today, did your primary care professionals discuss with you the care and support you receive from family members, friends, and others?"
+tHFA_D001_3,tHFA_D001 What is your age (or the child’s age if the patient is a child)? In completed years
+tHFA_D002_3,tHFA_D002 Record the patient’s sex
+tHFA_D003_3,"tHFA_D003 During your visit to the health facility today, did your primary care professionals tell you what illness you/your child has?"
+tHFA_D004_3,"tHFA_D004 During your visit to the health facility today, did your primary care professionals tell you about any illness signs or symptoms for which you must immediately come or bring the child back to a health facility?  "
+tHFA_D005_3,"tHFA_D005 IF YES, ASK: Can you tell me one of these signs or symptoms?"
+tHFA_D011_3,tHFA_D011 What are the key challenges/issues that you face while seeking care at this facility.?
+tHFA_D011_TOO_EXPENSIVE_3,tHFA_D011_TOO_EXPENSIVE_3
+tHFA_D011_TOO_FAR_3,tHFA_D011_TOO_FAR_3
+tHFA_D011_LONG_WAITING_TIME_3,tHFA_D011_LONG_WAITING_TIME_3
+tHFA_D011_FACILITY_OFTEN_CLOSED_3,tHFA_D011_FACILITY_OFTEN_CLOSED_3
+tHFA_D011_HEALTH_WORKERS_NOT_AVAILABLE_3,tHFA_D011_HEALTH_WORKERS_NOT_AVAILABLE_3
+tHFA_D011_HEALTH_WORKERS_NOT_RESPECTFUL_3,tHFA_D011_HEALTH_WORKERS_NOT_RESPECTFUL_3
+tHFA_D011_LACK_OF_TRANSPORT_TO_REACH_FACILITY_3,tHFA_D011_LACK_OF_TRANSPORT_TO_REACH_FACILITY_3
+tHFA_D011_POOR_QUALITY_OF_CARE_3,tHFA_D011_POOR_QUALITY_OF_CARE_3
+tHFA_D011_OTHERS_SPECIFY__3,tHFA_D011_OTHERS_SPECIFY__3
+tHFA_D011_DON_T_KNOW_3,tHFA_D011_DON_T_KNOW_3
+tHFA_D011_1_3,tHFA_D011_1 Please specify Other
+PE_Begin_4,"ENUMERATOR, DO HAVE PATIENT FOR THE EXIT INTERVIEWS? "
+PE_1_4,"PE_1 Hello, my name is [surveyor], and I am surveyor. Did you come to this health facility to seek health care? "
+PE_2_4,PE_2 Did you have a consultation with a health worker during your visit to the health facility today?
+PE_CONSENT_4,"CONSENT 
+The [survey manager and survey implementer] in close collaboration with the [other relevant entities] are working to collect information from patients about health services. The survey is part of the [government’s] ongoing efforts to understand the quality of health services. I would now like to ask you some questions about your visit to the health facility today. This may take from 10 to 15 minutes. I will not record your name, and your responses will be kept confidential. Your participation and your responses will not affect the care you might receive at this health facility in the future. Your participation in this survey is voluntary. You may choose not to participate at all, and you may stop at any time before the end of the survey. You may choose not to answer any question that you are not comfortable with. In case you have any questions about this survey at any time, please feel free to contact any of the following people:
+
+[LIST NAMES AND PHONE NUMBERS OF SURVEY MANAGEMENT PERSONS WHO CAN BE CONTACTED]
+
+Do I have your agreement to proceed?"
+PE_CONSENT_1_4,"PE_CONSENT_1 Signature of surveyor indicating informed consent was read and agreed by the patient or patient’s caregiver, if the patient is a child."
+PE_CONSENT_2_4,"PE_CONSENT_2 Signature of patient (or patient’s caregiver, if the patient is a child) authorizing data collection."
+PE_CONSENT_3_4,"PE_CONSENT_3 Consent given by patient or patient’s caregiver, if the patient is a child?"
+PREQ132_4,"PREQ132 During your visit to the health facility today, did your primary care professionals speak to you in a way you could understand?"
+PREQ122_4,"PREQ122 During your visit to the health facility today, did your primary care professionals treat you with respect?"
+tHFA_D006_4,"tHFA_D006 Thinking about your visit today, did you feel that any of the workers at the health facility shouted at you, scolded you, insulted you, threatened you, or talked to you rudely?"
+PREQ125_4,"PREQ125 During your visit to the health facility today, did you feel like you were involved in making decisions about your care as much as you wanted?"
+PREQ119_4,"PREQ119 During your visit to the health facility today, did you believe your primary care professionals would keep your information confidential?"
+PREQ129_4,"PREQ129 During your visit to the health facility today, did your primary care professionals discuss with you the care and support you receive from family members, friends, and others?"
+tHFA_D001_4,tHFA_D001 What is your age (or the child’s age if the patient is a child)? In completed years
+tHFA_D002_4,tHFA_D002 Record the patient’s sex
+tHFA_D003_4,"tHFA_D003 During your visit to the health facility today, did your primary care professionals tell you what illness you/your child has?"
+tHFA_D004_4,"tHFA_D004 During your visit to the health facility today, did your primary care professionals tell you about any illness signs or symptoms for which you must immediately come or bring the child back to a health facility?  "
+tHFA_D005_4,"tHFA_D005 IF YES, ASK: Can you tell me one of these signs or symptoms?"
+tHFA_D011_4,tHFA_D011 What are the key challenges/issues that you face while seeking care at this facility.?
+tHFA_D011_TOO_EXPENSIVE_4,tHFA_D011_TOO_EXPENSIVE_4
+tHFA_D011_TOO_FAR_4,tHFA_D011_TOO_FAR_4
+tHFA_D011_LONG_WAITING_TIME_4,tHFA_D011_LONG_WAITING_TIME_4
+tHFA_D011_FACILITY_OFTEN_CLOSED_4,tHFA_D011_FACILITY_OFTEN_CLOSED_4
+tHFA_D011_HEALTH_WORKERS_NOT_AVAILABLE_4,tHFA_D011_HEALTH_WORKERS_NOT_AVAILABLE_4
+tHFA_D011_HEALTH_WORKERS_NOT_RESPECTFUL_4,tHFA_D011_HEALTH_WORKERS_NOT_RESPECTFUL_4
+tHFA_D011_LACK_OF_TRANSPORT_TO_REACH_FACILITY_4,tHFA_D011_LACK_OF_TRANSPORT_TO_REACH_FACILITY_4
+tHFA_D011_POOR_QUALITY_OF_CARE_4,tHFA_D011_POOR_QUALITY_OF_CARE_4
+tHFA_D011_OTHERS_SPECIFY__4,tHFA_D011_OTHERS_SPECIFY__4
+tHFA_D011_DON_T_KNOW_4,tHFA_D011_DON_T_KNOW_4
+tHFA_D011_1_4,tHFA_D011_1 Please specify Other
+PE_Begin_5,"ENUMERATOR, DO HAVE PATIENT FOR THE EXIT INTERVIEWS? "
+PE_1_5,"PE_1 Hello, my name is [surveyor], and I am surveyor. Did you come to this health facility to seek health care? "
+PE_2_5,PE_2 Did you have a consultation with a health worker during your visit to the health facility today?
+PE_CONSENT_5,"CONSENT 
+The [survey manager and survey implementer] in close collaboration with the [other relevant entities] are working to collect information from patients about health services. The survey is part of the [government’s] ongoing efforts to understand the quality of health services. I would now like to ask you some questions about your visit to the health facility today. This may take from 10 to 15 minutes. I will not record your name, and your responses will be kept confidential. Your participation and your responses will not affect the care you might receive at this health facility in the future. Your participation in this survey is voluntary. You may choose not to participate at all, and you may stop at any time before the end of the survey. You may choose not to answer any question that you are not comfortable with. In case you have any questions about this survey at any time, please feel free to contact any of the following people:
+
+[LIST NAMES AND PHONE NUMBERS OF SURVEY MANAGEMENT PERSONS WHO CAN BE CONTACTED]
+
+Do I have your agreement to proceed?"
+PE_CONSENT_1_5,"PE_CONSENT_1 Signature of surveyor indicating informed consent was read and agreed by the patient or patient’s caregiver, if the patient is a child."
+PE_CONSENT_2_5,"PE_CONSENT_2 Signature of patient (or patient’s caregiver, if the patient is a child) authorizing data collection."
+PE_CONSENT_3_5,"PE_CONSENT_3 Consent given by patient or patient’s caregiver, if the patient is a child?"
+PREQ132_5,"PREQ132 During your visit to the health facility today, did your primary care professionals speak to you in a way you could understand?"
+PREQ122_5,"PREQ122 During your visit to the health facility today, did your primary care professionals treat you with respect?"
+tHFA_D006_5,"tHFA_D006 Thinking about your visit today, did you feel that any of the workers at the health facility shouted at you, scolded you, insulted you, threatened you, or talked to you rudely?"
+PREQ125_5,"PREQ125 During your visit to the health facility today, did you feel like you were involved in making decisions about your care as much as you wanted?"
+PREQ119_5,"PREQ119 During your visit to the health facility today, did you believe your primary care professionals would keep your information confidential?"
+PREQ129_5,"PREQ129 During your visit to the health facility today, did your primary care professionals discuss with you the care and support you receive from family members, friends, and others?"
+tHFA_D001_5,tHFA_D001 What is your age (or the child’s age if the patient is a child)? In completed years
+tHFA_D002_5,tHFA_D002 Record the patient’s sex
+tHFA_D003_5,"tHFA_D003 During your visit to the health facility today, did your primary care professionals tell you what illness you/your child has?"
+tHFA_D004_5,"tHFA_D004 During your visit to the health facility today, did your primary care professionals tell you about any illness signs or symptoms for which you must immediately come or bring the child back to a health facility?  "
+tHFA_D005_5,"tHFA_D005 IF YES, ASK: Can you tell me one of these signs or symptoms?"
+tHFA_D011_5,tHFA_D011 What are the key challenges/issues that you face while seeking care at this facility.?
+tHFA_D011_TOO_EXPENSIVE_5,tHFA_D011_TOO_EXPENSIVE_5
+tHFA_D011_TOO_FAR_5,tHFA_D011_TOO_FAR_5
+tHFA_D011_LONG_WAITING_TIME_5,tHFA_D011_LONG_WAITING_TIME_5
+tHFA_D011_FACILITY_OFTEN_CLOSED_5,tHFA_D011_FACILITY_OFTEN_CLOSED_5
+tHFA_D011_HEALTH_WORKERS_NOT_AVAILABLE_5,tHFA_D011_HEALTH_WORKERS_NOT_AVAILABLE_5
+tHFA_D011_HEALTH_WORKERS_NOT_RESPECTFUL_5,tHFA_D011_HEALTH_WORKERS_NOT_RESPECTFUL_5
+tHFA_D011_LACK_OF_TRANSPORT_TO_REACH_FACILITY_5,tHFA_D011_LACK_OF_TRANSPORT_TO_REACH_FACILITY_5
+tHFA_D011_POOR_QUALITY_OF_CARE_5,tHFA_D011_POOR_QUALITY_OF_CARE_5
+tHFA_D011_OTHERS_SPECIFY__5,tHFA_D011_OTHERS_SPECIFY__5
+tHFA_D011_DON_T_KNOW_5,tHFA_D011_DON_T_KNOW_5
+tHFA_D011_1_5,tHFA_D011_1 Please specify Other
+tHFA_E031,tHFA_E031 Are there Health Surveillance Assistants providing health services in the catchment area of this facility?
+CHW_1,CHW_1 Are any of the randomly selected HEALTH SURVEILLANCE ASSISTANT (HSA) Present at the facility for the interview and give consent?
+CHW_2,CHW_2 How many HEALTH SURVEILLANCE ASSISTANTS (HSA) Present at the facility for the interview?
+CHW_repeat_count,CHW_repeat_count
+CHW_begin_1,"ENUMERATOR, DO YOU HAVE HEALTH SURVEILLANCE ASSISTANT (HSA)/CSO STAFF PERSON/FACILITY INCHARGE WITH YOU FOR THE INTERVIEWS?"
+E001_1,"E001 Hello, my name is ${FI_2}, and I am surveyor. Are you a Health Surveillance Assistant that works in communities around this health facility?"
+CHW_CONSENT_1,Signature of surveyor indicating informed consent was read and agreed by the HEALTH SURVEILLANCE ASSISTANT (HSA) or other Respondent (if HSAs are not available)
+CHW_CONSENT_1_1,"CONSENT 
+The [survey manager and survey implementer] in close collaboration with the [other relevant entities] are working to collect information from community health workers about health services. The survey is part of the [government’s] ongoing efforts to understand the quality of health services. I would now like to ask you questions about your work. This may take from 10 to 15 minutes. I will not record your name, and your responses will be kept confidential. Your participation in this survey is voluntary. You may choose not to participate at all or to stop at any time before the end of the survey. You may also choose not to answer any question that you are not comfortable with. In case you have any question(s) about this survey at any time, please feel free to contact any of the following people:
+
+[LIST NAMES AND PHONE NUMBERS OF SURVEY MANAGEMENT PERSONS WHO CAN BE CONTACTED]
+
+Do I have your agreement to proceed?"
+CHW_CONSENT_2_1,Signature of HEALTH SURVEILLANCE ASSISTANT (HSA) or other Respondent (if HSAs are not available) authorizing data collection.
+tHFA_E002_1,tHFA_E002 Consent given by the HEALTH SURVEILLANCE ASSISTANT (HSA) or other Respondent?
+tHFA_E003_A_1,tHFA_E003_A HIV
+tHFA_E003_B_1,tHFA_E003_B Tuberculosis/TB
+tHFA_E003_C_1,tHFA_E003_C Malaria
+tHFA_E003_D_1,tHFA_E003_D Nutrition
+tHFA_E003_E_1,"tHFA_E003_E Maternal, newborn, or child health"
+tHFA_E004_1,tHFA_E004 Did you receive a supervision visit last January 2024?
+tHFA_E005_A_1,tHFA_E005_A HIV
+tHFA_E005_B_1,tHFA_E005_B Tuberculosis/TB
+tHFA_E005_C_1,tHFA_E005_C Malaria
+tHFA_E005_D_1,tHFA_E005_D Nutrition
+tHFA_E005_E_1,"tHFA_E005_E Maternal, newborn, or child health"
+tHFA_E006_1,tHFA_E006 Did you receive a supervision visit last February 2024?
+tHFA_E007_A_1,tHFA_E007_A HIV
+tHFA_E007_B_1,tHFA_E007_B Tuberculosis/TB
+tHFA_E007_C_1,tHFA_E007_C Malaria
+tHFA_E007_D_1,tHFA_E007_D Nutrition
+tHFA_E007_E_1,"tHFA_E007_E Maternal, newborn, or child health"
+tHFA_E008_1,tHFA_E008 Did you receive a supervision visit last March 2024?
+tHFA_E009_A_1,tHFA_E009_A HIV
+tHFA_E009_B_1,tHFA_E009_B Tuberculosis/TB
+tHFA_E009_C_1,tHFA_E009_C Malaria
+tHFA_E009_D_1,tHFA_E009_D Nutrition
+tHFA_E009_E_1,"tHFA_E009_E Maternal, newborn, or child health"
+tHFA_E010_1,tHFA_E010 I would now like to ask you about your Health Surveillance Assistant contract. A contract is a written agreement about your work as a community health worker that has been signed by you and your employer. Do you have a contract?
+tHFA_E011_1,tHFA_E011 A description of your work responsibilities?
+tHFA_E012_1,"tHFA_E012 The expected number of hours that you must work each day, week, or month?"
+tHFA_E013_1,tHFA_E013 A level of financial remuneration that is at least the national minimum wage?
+tHFA_E014_1,"tHFA_E014 A description of how often you will be paid (for example, monthly)?"
+tHFA_E015_1,"tHFA_E015 Rest days, or days that you do not need to work (for example, weekends)?"
+tHFA_E016_1,"tHFA_E016 Annual leave or vacation days (for example, two weeks per year)? "
+tHFA_E017_1,tHFA_E017 Paid sick leave?
+tHFA_E018_1,tHFA_E018 Holidays?
+tHFA_E019_1,tHFA_E019 Health insurance?
+tHFA_E020_1,tHFA_E020 Do you receive payment for your work as a Health Surveillance Assistant (HSA)?
+tHFA_E021_1,"tHFA_E021 For all 3 of the months, were you paid the amount stated in your contract?"
+tHFA_E022_1,"tHFA_E022 For all 3 of the months, were you paid according to the frequency stated in your contract (for example, each month)?"
+tHFA_E023_1,"tHFA_E023 For all 3 of the months, were you paid on time?"
+tHFA_E032_A_1,tHFA_E032_A Amount 
+tHFA_E032_B_1,tHFA_E032_B Currency
+tHFA_E032_C_1,tHFA_E032_C Time period HEALTH SURVEILLANCE ASSISTANT (HSA) receives payment.
+tHFA_E032_D_1,tHFA_E032_D Please specify Other
+tHFA_E024_1,"tHFA_E024 What is the most important commodity that you need for your work as a Health Surveillance Assistant ? A commodity is an item that gets used up (for example, medicines, diagnostic tests, or condoms). "
+tHFA_E025_1,"tHFA_E025 Regarding the commodity that you just mentioned, did you always have the item in-stock during the months January 2024, February 2024, and March 2024?"
+tHFA_E026_1,"tHFA_E026 What is the most important piece of equipment that you need for your work as a Health Surveillance Assistant (HSA)? Examples of equipment are a backpack or box to carry things, a thermometer, or a scale to weigh children. "
+tHFA_E027_1,"tHFA_E027 Regarding the item that you just mentioned, did you have the item and was it always functioning properly during the months January 2024, February 2024, and March 2024?"
+tHFA_E028_1,"tHFA_E028 What is the most important job aid or form that you need for your work as a Health Surveillance Assistant (HSA)? Examples of job aids or forms are a patient register, a monthly reporting form, a counseling flip chart, or a guideline that explains how to do your job. "
+tHFA_E028_A_1,tHFA_E028_A Please specify Other
+tHFA_E029_1,"tHFA_E029 Regarding the item that you just mentioned, did you have the item during the months January 2024, February 2024, and March 2024?"
+tHFA_E030_1,tHFA_E030 SELECT THE RESPONSE THAT DESCRIBES WHO ANSWERED THE ABOVE HEALTH SURVEILLANCE ASSISTANT (HSA) QUESTIONS.
+CHW_begin_2,"ENUMERATOR, DO YOU HAVE HEALTH SURVEILLANCE ASSISTANT (HSA)/CSO STAFF PERSON/FACILITY INCHARGE WITH YOU FOR THE INTERVIEWS?"
+E001_2,"E001 Hello, my name is ${FI_2}, and I am surveyor. Are you a Health Surveillance Assistant that works in communities around this health facility?"
+CHW_CONSENT_2,Signature of HEALTH SURVEILLANCE ASSISTANT (HSA) or other Respondent (if HSAs are not available) authorizing data collection.
+CHW_CONSENT_1_2,Signature of surveyor indicating informed consent was read and agreed by the HEALTH SURVEILLANCE ASSISTANT (HSA) or other Respondent (if HSAs are not available)
+CHW_CONSENT_2_2,"CONSENT 
+The [survey manager and survey implementer] in close collaboration with the [other relevant entities] are working to collect information from community health workers about health services. The survey is part of the [government’s] ongoing efforts to understand the quality of health services. I would now like to ask you questions about your work. This may take from 10 to 15 minutes. I will not record your name, and your responses will be kept confidential. Your participation in this survey is voluntary. You may choose not to participate at all or to stop at any time before the end of the survey. You may also choose not to answer any question that you are not comfortable with. In case you have any question(s) about this survey at any time, please feel free to contact any of the following people:
+
+[LIST NAMES AND PHONE NUMBERS OF SURVEY MANAGEMENT PERSONS WHO CAN BE CONTACTED]
+
+Do I have your agreement to proceed?"
+tHFA_E002_2,tHFA_E002 Consent given by the HEALTH SURVEILLANCE ASSISTANT (HSA) or other Respondent?
+tHFA_E003_A_2,tHFA_E003_A HIV
+tHFA_E003_B_2,tHFA_E003_B Tuberculosis/TB
+tHFA_E003_C_2,tHFA_E003_C Malaria
+tHFA_E003_D_2,tHFA_E003_D Nutrition
+tHFA_E003_E_2,"tHFA_E003_E Maternal, newborn, or child health"
+tHFA_E004_2,tHFA_E004 Did you receive a supervision visit last January 2024?
+tHFA_E005_A_2,tHFA_E005_A HIV
+tHFA_E005_B_2,tHFA_E005_B Tuberculosis/TB
+tHFA_E005_C_2,tHFA_E005_C Malaria
+tHFA_E005_D_2,tHFA_E005_D Nutrition
+tHFA_E005_E_2,"tHFA_E005_E Maternal, newborn, or child health"
+tHFA_E006_2,tHFA_E006 Did you receive a supervision visit last February 2024?
+tHFA_E007_A_2,tHFA_E007_A HIV
+tHFA_E007_B_2,tHFA_E007_B Tuberculosis/TB
+tHFA_E007_C_2,tHFA_E007_C Malaria
+tHFA_E007_D_2,tHFA_E007_D Nutrition
+tHFA_E007_E_2,"tHFA_E007_E Maternal, newborn, or child health"
+tHFA_E008_2,tHFA_E008 Did you receive a supervision visit last March 2024?
+tHFA_E009_A_2,tHFA_E009_A HIV
+tHFA_E009_B_2,tHFA_E009_B Tuberculosis/TB
+tHFA_E009_C_2,tHFA_E009_C Malaria
+tHFA_E009_D_2,tHFA_E009_D Nutrition
+tHFA_E009_E_2,"tHFA_E009_E Maternal, newborn, or child health"
+tHFA_E010_2,tHFA_E010 I would now like to ask you about your Health Surveillance Assistant contract. A contract is a written agreement about your work as a community health worker that has been signed by you and your employer. Do you have a contract?
+tHFA_E011_2,tHFA_E011 A description of your work responsibilities?
+tHFA_E012_2,"tHFA_E012 The expected number of hours that you must work each day, week, or month?"
+tHFA_E013_2,tHFA_E013 A level of financial remuneration that is at least the national minimum wage?
+tHFA_E014_2,"tHFA_E014 A description of how often you will be paid (for example, monthly)?"
+tHFA_E015_2,"tHFA_E015 Rest days, or days that you do not need to work (for example, weekends)?"
+tHFA_E016_2,"tHFA_E016 Annual leave or vacation days (for example, two weeks per year)? "
+tHFA_E017_2,tHFA_E017 Paid sick leave?
+tHFA_E018_2,tHFA_E018 Holidays?
+tHFA_E019_2,tHFA_E019 Health insurance?
+tHFA_E020_2,tHFA_E020 Do you receive payment for your work as a Health Surveillance Assistant (HSA)?
+tHFA_E021_2,"tHFA_E021 For all 3 of the months, were you paid the amount stated in your contract?"
+tHFA_E022_2,"tHFA_E022 For all 3 of the months, were you paid according to the frequency stated in your contract (for example, each month)?"
+tHFA_E023_2,"tHFA_E023 For all 3 of the months, were you paid on time?"
+tHFA_E032_A_2,tHFA_E032_A Amount 
+tHFA_E032_B_2,tHFA_E032_B Currency
+tHFA_E032_C_2,tHFA_E032_C Time period HEALTH SURVEILLANCE ASSISTANT (HSA) receives payment.
+tHFA_E032_D_2,tHFA_E032_D Please specify Other
+tHFA_E024_2,"tHFA_E024 What is the most important commodity that you need for your work as a Health Surveillance Assistant ? A commodity is an item that gets used up (for example, medicines, diagnostic tests, or condoms). "
+tHFA_E025_2,"tHFA_E025 Regarding the commodity that you just mentioned, did you always have the item in-stock during the months January 2024, February 2024, and March 2024?"
+tHFA_E026_2,"tHFA_E026 What is the most important piece of equipment that you need for your work as a Health Surveillance Assistant (HSA)? Examples of equipment are a backpack or box to carry things, a thermometer, or a scale to weigh children. "
+tHFA_E027_2,"tHFA_E027 Regarding the item that you just mentioned, did you have the item and was it always functioning properly during the months January 2024, February 2024, and March 2024?"
+tHFA_E028_2,"tHFA_E028 What is the most important job aid or form that you need for your work as a Health Surveillance Assistant (HSA)? Examples of job aids or forms are a patient register, a monthly reporting form, a counseling flip chart, or a guideline that explains how to do your job. "
+tHFA_E028_A_2,tHFA_E028_A Please specify Other
+tHFA_E029_2,"tHFA_E029 Regarding the item that you just mentioned, did you have the item during the months January 2024, February 2024, and March 2024?"
+tHFA_E030_2,tHFA_E030 SELECT THE RESPONSE THAT DESCRIBES WHO ANSWERED THE ABOVE HEALTH SURVEILLANCE ASSISTANT (HSA) QUESTIONS.
+CHW_begin_3,"ENUMERATOR, DO YOU HAVE HEALTH SURVEILLANCE ASSISTANT (HSA)/CSO STAFF PERSON/FACILITY INCHARGE WITH YOU FOR THE INTERVIEWS?"
+E001_3,"E001 Hello, my name is ${FI_2}, and I am surveyor. Are you a Health Surveillance Assistant that works in communities around this health facility?"
+CHW_CONSENT_3,"CONSENT 
+The [survey manager and survey implementer] in close collaboration with the [other relevant entities] are working to collect information from community health workers about health services. The survey is part of the [government’s] ongoing efforts to understand the quality of health services. I would now like to ask you questions about your work. This may take from 10 to 15 minutes. I will not record your name, and your responses will be kept confidential. Your participation in this survey is voluntary. You may choose not to participate at all or to stop at any time before the end of the survey. You may also choose not to answer any question that you are not comfortable with. In case you have any question(s) about this survey at any time, please feel free to contact any of the following people:
+
+[LIST NAMES AND PHONE NUMBERS OF SURVEY MANAGEMENT PERSONS WHO CAN BE CONTACTED]
+
+Do I have your agreement to proceed?"
+CHW_CONSENT_1_3,Signature of surveyor indicating informed consent was read and agreed by the HEALTH SURVEILLANCE ASSISTANT (HSA) or other Respondent (if HSAs are not available)
+CHW_CONSENT_2_3,Signature of HEALTH SURVEILLANCE ASSISTANT (HSA) or other Respondent (if HSAs are not available) authorizing data collection.
+tHFA_E002_3,tHFA_E002 Consent given by the HEALTH SURVEILLANCE ASSISTANT (HSA) or other Respondent?
+tHFA_E003_A_3,tHFA_E003_A HIV
+tHFA_E003_B_3,tHFA_E003_B Tuberculosis/TB
+tHFA_E003_C_3,tHFA_E003_C Malaria
+tHFA_E003_D_3,tHFA_E003_D Nutrition
+tHFA_E003_E_3,"tHFA_E003_E Maternal, newborn, or child health"
+tHFA_E004_3,tHFA_E004 Did you receive a supervision visit last January 2024?
+tHFA_E005_A_3,tHFA_E005_A HIV
+tHFA_E005_B_3,tHFA_E005_B Tuberculosis/TB
+tHFA_E005_C_3,tHFA_E005_C Malaria
+tHFA_E005_D_3,tHFA_E005_D Nutrition
+tHFA_E005_E_3,"tHFA_E005_E Maternal, newborn, or child health"
+tHFA_E006_3,tHFA_E006 Did you receive a supervision visit last February 2024?
+tHFA_E007_A_3,tHFA_E007_A HIV
+tHFA_E007_B_3,tHFA_E007_B Tuberculosis/TB
+tHFA_E007_C_3,tHFA_E007_C Malaria
+tHFA_E007_D_3,tHFA_E007_D Nutrition
+tHFA_E007_E_3,"tHFA_E007_E Maternal, newborn, or child health"
+tHFA_E008_3,tHFA_E008 Did you receive a supervision visit last March 2024?
+tHFA_E009_A_3,tHFA_E009_A HIV
+tHFA_E009_B_3,tHFA_E009_B Tuberculosis/TB
+tHFA_E009_C_3,tHFA_E009_C Malaria
+tHFA_E009_D_3,tHFA_E009_D Nutrition
+tHFA_E009_E_3,"tHFA_E009_E Maternal, newborn, or child health"
+tHFA_E010_3,tHFA_E010 I would now like to ask you about your Health Surveillance Assistant contract. A contract is a written agreement about your work as a community health worker that has been signed by you and your employer. Do you have a contract?
+tHFA_E011_3,tHFA_E011 A description of your work responsibilities?
+tHFA_E012_3,"tHFA_E012 The expected number of hours that you must work each day, week, or month?"
+tHFA_E013_3,tHFA_E013 A level of financial remuneration that is at least the national minimum wage?
+tHFA_E014_3,"tHFA_E014 A description of how often you will be paid (for example, monthly)?"
+tHFA_E015_3,"tHFA_E015 Rest days, or days that you do not need to work (for example, weekends)?"
+tHFA_E016_3,"tHFA_E016 Annual leave or vacation days (for example, two weeks per year)? "
+tHFA_E017_3,tHFA_E017 Paid sick leave?
+tHFA_E018_3,tHFA_E018 Holidays?
+tHFA_E019_3,tHFA_E019 Health insurance?
+tHFA_E020_3,tHFA_E020 Do you receive payment for your work as a Health Surveillance Assistant (HSA)?
+tHFA_E021_3,"tHFA_E021 For all 3 of the months, were you paid the amount stated in your contract?"
+tHFA_E022_3,"tHFA_E022 For all 3 of the months, were you paid according to the frequency stated in your contract (for example, each month)?"
+tHFA_E023_3,"tHFA_E023 For all 3 of the months, were you paid on time?"
+tHFA_E032_A_3,tHFA_E032_A Amount 
+tHFA_E032_B_3,tHFA_E032_B Currency
+tHFA_E032_C_3,tHFA_E032_C Time period HEALTH SURVEILLANCE ASSISTANT (HSA) receives payment.
+tHFA_E032_D_3,tHFA_E032_D Please specify Other
+tHFA_E024_3,"tHFA_E024 What is the most important commodity that you need for your work as a Health Surveillance Assistant ? A commodity is an item that gets used up (for example, medicines, diagnostic tests, or condoms). "
+tHFA_E025_3,"tHFA_E025 Regarding the commodity that you just mentioned, did you always have the item in-stock during the months January 2024, February 2024, and March 2024?"
+tHFA_E026_3,"tHFA_E026 What is the most important piece of equipment that you need for your work as a Health Surveillance Assistant (HSA)? Examples of equipment are a backpack or box to carry things, a thermometer, or a scale to weigh children. "
+tHFA_E027_3,"tHFA_E027 Regarding the item that you just mentioned, did you have the item and was it always functioning properly during the months January 2024, February 2024, and March 2024?"
+tHFA_E028_3,"tHFA_E028 What is the most important job aid or form that you need for your work as a Health Surveillance Assistant (HSA)? Examples of job aids or forms are a patient register, a monthly reporting form, a counseling flip chart, or a guideline that explains how to do your job. "
+tHFA_E028_A_3,tHFA_E028_A Please specify Other
+tHFA_E029_3,"tHFA_E029 Regarding the item that you just mentioned, did you have the item during the months January 2024, February 2024, and March 2024?"
+tHFA_E030_3,tHFA_E030 SELECT THE RESPONSE THAT DESCRIBES WHO ANSWERED THE ABOVE HEALTH SURVEILLANCE ASSISTANT (HSA) QUESTIONS.
+CHW_begin_4,"ENUMERATOR, DO YOU HAVE HEALTH SURVEILLANCE ASSISTANT (HSA)/CSO STAFF PERSON/FACILITY INCHARGE WITH YOU FOR THE INTERVIEWS?"
+E001_4,"E001 Hello, my name is ${FI_2}, and I am surveyor. Are you a Health Surveillance Assistant that works in communities around this health facility?"
+CHW_CONSENT_4,"CONSENT 
+The [survey manager and survey implementer] in close collaboration with the [other relevant entities] are working to collect information from community health workers about health services. The survey is part of the [government’s] ongoing efforts to understand the quality of health services. I would now like to ask you questions about your work. This may take from 10 to 15 minutes. I will not record your name, and your responses will be kept confidential. Your participation in this survey is voluntary. You may choose not to participate at all or to stop at any time before the end of the survey. You may also choose not to answer any question that you are not comfortable with. In case you have any question(s) about this survey at any time, please feel free to contact any of the following people:
+
+[LIST NAMES AND PHONE NUMBERS OF SURVEY MANAGEMENT PERSONS WHO CAN BE CONTACTED]
+
+Do I have your agreement to proceed?"
+CHW_CONSENT_1_4,Signature of surveyor indicating informed consent was read and agreed by the HEALTH SURVEILLANCE ASSISTANT (HSA) or other Respondent (if HSAs are not available)
+CHW_CONSENT_2_4,Signature of HEALTH SURVEILLANCE ASSISTANT (HSA) or other Respondent (if HSAs are not available) authorizing data collection.
+tHFA_E002_4,tHFA_E002 Consent given by the HEALTH SURVEILLANCE ASSISTANT (HSA) or other Respondent?
+tHFA_E003_A_4,tHFA_E003_A HIV
+tHFA_E003_B_4,tHFA_E003_B Tuberculosis/TB
+tHFA_E003_C_4,tHFA_E003_C Malaria
+tHFA_E003_D_4,tHFA_E003_D Nutrition
+tHFA_E003_E_4,"tHFA_E003_E Maternal, newborn, or child health"
+tHFA_E004_4,tHFA_E004 Did you receive a supervision visit last January 2024?
+tHFA_E005_A_4,tHFA_E005_A HIV
+tHFA_E005_B_4,tHFA_E005_B Tuberculosis/TB
+tHFA_E005_C_4,tHFA_E005_C Malaria
+tHFA_E005_D_4,tHFA_E005_D Nutrition
+tHFA_E005_E_4,"tHFA_E005_E Maternal, newborn, or child health"
+tHFA_E006_4,tHFA_E006 Did you receive a supervision visit last February 2024?
+tHFA_E007_A_4,tHFA_E007_A HIV
+tHFA_E007_B_4,tHFA_E007_B Tuberculosis/TB
+tHFA_E007_C_4,tHFA_E007_C Malaria
+tHFA_E007_D_4,tHFA_E007_D Nutrition
+tHFA_E007_E_4,"tHFA_E007_E Maternal, newborn, or child health"
+tHFA_E008_4,tHFA_E008 Did you receive a supervision visit last March 2024?
+tHFA_E009_A_4,tHFA_E009_A HIV
+tHFA_E009_B_4,tHFA_E009_B Tuberculosis/TB
+tHFA_E009_C_4,tHFA_E009_C Malaria
+tHFA_E009_D_4,tHFA_E009_D Nutrition
+tHFA_E009_E_4,"tHFA_E009_E Maternal, newborn, or child health"
+tHFA_E010_4,tHFA_E010 I would now like to ask you about your Health Surveillance Assistant contract. A contract is a written agreement about your work as a community health worker that has been signed by you and your employer. Do you have a contract?
+tHFA_E011_4,tHFA_E011 A description of your work responsibilities?
+tHFA_E012_4,"tHFA_E012 The expected number of hours that you must work each day, week, or month?"
+tHFA_E013_4,tHFA_E013 A level of financial remuneration that is at least the national minimum wage?
+tHFA_E014_4,"tHFA_E014 A description of how often you will be paid (for example, monthly)?"
+tHFA_E015_4,"tHFA_E015 Rest days, or days that you do not need to work (for example, weekends)?"
+tHFA_E016_4,"tHFA_E016 Annual leave or vacation days (for example, two weeks per year)? "
+tHFA_E017_4,tHFA_E017 Paid sick leave?
+tHFA_E018_4,tHFA_E018 Holidays?
+tHFA_E019_4,tHFA_E019 Health insurance?
+tHFA_E020_4,tHFA_E020 Do you receive payment for your work as a Health Surveillance Assistant (HSA)?
+tHFA_E021_4,"tHFA_E021 For all 3 of the months, were you paid the amount stated in your contract?"
+tHFA_E022_4,"tHFA_E022 For all 3 of the months, were you paid according to the frequency stated in your contract (for example, each month)?"
+tHFA_E023_4,"tHFA_E023 For all 3 of the months, were you paid on time?"
+tHFA_E032_A_4,tHFA_E032_A Amount 
+tHFA_E032_B_4,tHFA_E032_B Currency
+tHFA_E032_C_4,tHFA_E032_C Time period HEALTH SURVEILLANCE ASSISTANT (HSA) receives payment.
+tHFA_E032_D_4,tHFA_E032_D Please specify Other
+tHFA_E024_4,"tHFA_E024 What is the most important commodity that you need for your work as a Health Surveillance Assistant ? A commodity is an item that gets used up (for example, medicines, diagnostic tests, or condoms). "
+tHFA_E025_4,"tHFA_E025 Regarding the commodity that you just mentioned, did you always have the item in-stock during the months January 2024, February 2024, and March 2024?"
+tHFA_E026_4,"tHFA_E026 What is the most important piece of equipment that you need for your work as a Health Surveillance Assistant (HSA)? Examples of equipment are a backpack or box to carry things, a thermometer, or a scale to weigh children. "
+tHFA_E027_4,"tHFA_E027 Regarding the item that you just mentioned, did you have the item and was it always functioning properly during the months January 2024, February 2024, and March 2024?"
+tHFA_E028_4,"tHFA_E028 What is the most important job aid or form that you need for your work as a Health Surveillance Assistant (HSA)? Examples of job aids or forms are a patient register, a monthly reporting form, a counseling flip chart, or a guideline that explains how to do your job. "
+tHFA_E028_A_4,tHFA_E028_A Please specify Other
+tHFA_E029_4,"tHFA_E029 Regarding the item that you just mentioned, did you have the item during the months January 2024, February 2024, and March 2024?"
+tHFA_E030_4,tHFA_E030 SELECT THE RESPONSE THAT DESCRIBES WHO ANSWERED THE ABOVE HEALTH SURVEILLANCE ASSISTANT (HSA) QUESTIONS.
+CHW_begin_5,"ENUMERATOR, DO YOU HAVE HEALTH SURVEILLANCE ASSISTANT (HSA)/CSO STAFF PERSON/FACILITY INCHARGE WITH YOU FOR THE INTERVIEWS?"
+E001_5,"E001 Hello, my name is ${FI_2}, and I am surveyor. Are you a Health Surveillance Assistant that works in communities around this health facility?"
+CHW_CONSENT_5,"CONSENT 
+The [survey manager and survey implementer] in close collaboration with the [other relevant entities] are working to collect information from community health workers about health services. The survey is part of the [government’s] ongoing efforts to understand the quality of health services. I would now like to ask you questions about your work. This may take from 10 to 15 minutes. I will not record your name, and your responses will be kept confidential. Your participation in this survey is voluntary. You may choose not to participate at all or to stop at any time before the end of the survey. You may also choose not to answer any question that you are not comfortable with. In case you have any question(s) about this survey at any time, please feel free to contact any of the following people:
+
+[LIST NAMES AND PHONE NUMBERS OF SURVEY MANAGEMENT PERSONS WHO CAN BE CONTACTED]
+
+Do I have your agreement to proceed?"
+CHW_CONSENT_1_5,Signature of surveyor indicating informed consent was read and agreed by the HEALTH SURVEILLANCE ASSISTANT (HSA) or other Respondent (if HSAs are not available)
+CHW_CONSENT_2_5,Signature of HEALTH SURVEILLANCE ASSISTANT (HSA) or other Respondent (if HSAs are not available) authorizing data collection.
+tHFA_E002_5,tHFA_E002 Consent given by the HEALTH SURVEILLANCE ASSISTANT (HSA) or other Respondent?
+tHFA_E003_A_5,tHFA_E003_A HIV
+tHFA_E003_B_5,tHFA_E003_B Tuberculosis/TB
+tHFA_E003_C_5,tHFA_E003_C Malaria
+tHFA_E003_D_5,tHFA_E003_D Nutrition
+tHFA_E003_E_5,"tHFA_E003_E Maternal, newborn, or child health"
+tHFA_E004_5,tHFA_E004 Did you receive a supervision visit last January 2024?
+tHFA_E005_A_5,tHFA_E005_A HIV
+tHFA_E005_B_5,tHFA_E005_B Tuberculosis/TB
+tHFA_E005_C_5,tHFA_E005_C Malaria
+tHFA_E005_D_5,tHFA_E005_D Nutrition
+tHFA_E005_E_5,"tHFA_E005_E Maternal, newborn, or child health"
+tHFA_E006_5,tHFA_E006 Did you receive a supervision visit last February 2024?
+tHFA_E007_A_5,tHFA_E007_A HIV
+tHFA_E007_B_5,tHFA_E007_B Tuberculosis/TB
+tHFA_E007_C_5,tHFA_E007_C Malaria
+tHFA_E007_D_5,tHFA_E007_D Nutrition
+tHFA_E007_E_5,"tHFA_E007_E Maternal, newborn, or child health"
+tHFA_E008_5,tHFA_E008 Did you receive a supervision visit last March 2024?
+tHFA_E009_A_5,tHFA_E009_A HIV
+tHFA_E009_B_5,tHFA_E009_B Tuberculosis/TB
+tHFA_E009_C_5,tHFA_E009_C Malaria
+tHFA_E009_D_5,tHFA_E009_D Nutrition
+tHFA_E009_E_5,"tHFA_E009_E Maternal, newborn, or child health"
+tHFA_E010_5,tHFA_E010 I would now like to ask you about your Health Surveillance Assistant contract. A contract is a written agreement about your work as a community health worker that has been signed by you and your employer. Do you have a contract?
+tHFA_E011_5,tHFA_E011 A description of your work responsibilities?
+tHFA_E012_5,"tHFA_E012 The expected number of hours that you must work each day, week, or month?"
+tHFA_E013_5,tHFA_E013 A level of financial remuneration that is at least the national minimum wage?
+tHFA_E014_5,"tHFA_E014 A description of how often you will be paid (for example, monthly)?"
+tHFA_E015_5,"tHFA_E015 Rest days, or days that you do not need to work (for example, weekends)?"
+tHFA_E016_5,"tHFA_E016 Annual leave or vacation days (for example, two weeks per year)? "
+tHFA_E017_5,tHFA_E017 Paid sick leave?
+tHFA_E018_5,tHFA_E018 Holidays?
+tHFA_E019_5,tHFA_E019 Health insurance?
+tHFA_E020_5,tHFA_E020 Do you receive payment for your work as a Health Surveillance Assistant (HSA)?
+tHFA_E021_5,"tHFA_E021 For all 3 of the months, were you paid the amount stated in your contract?"
+tHFA_E022_5,"tHFA_E022 For all 3 of the months, were you paid according to the frequency stated in your contract (for example, each month)?"
+tHFA_E023_5,"tHFA_E023 For all 3 of the months, were you paid on time?"
+tHFA_E032_A_5,tHFA_E032_A Amount 
+tHFA_E032_B_5,tHFA_E032_B Currency
+tHFA_E032_C_5,tHFA_E032_C Time period HEALTH SURVEILLANCE ASSISTANT (HSA) receives payment.
+tHFA_E032_D_5,tHFA_E032_D Please specify Other
+tHFA_E024_5,"tHFA_E024 What is the most important commodity that you need for your work as a Health Surveillance Assistant ? A commodity is an item that gets used up (for example, medicines, diagnostic tests, or condoms). "
+tHFA_E025_5,"tHFA_E025 Regarding the commodity that you just mentioned, did you always have the item in-stock during the months January 2024, February 2024, and March 2024?"
+tHFA_E026_5,"tHFA_E026 What is the most important piece of equipment that you need for your work as a Health Surveillance Assistant (HSA)? Examples of equipment are a backpack or box to carry things, a thermometer, or a scale to weigh children. "
+tHFA_E027_5,"tHFA_E027 Regarding the item that you just mentioned, did you have the item and was it always functioning properly during the months January 2024, February 2024, and March 2024?"
+tHFA_E028_5,"tHFA_E028 What is the most important job aid or form that you need for your work as a Health Surveillance Assistant (HSA)? Examples of job aids or forms are a patient register, a monthly reporting form, a counseling flip chart, or a guideline that explains how to do your job. "
+tHFA_E028_A_5,tHFA_E028_A Please specify Other
+tHFA_E029_5,"tHFA_E029 Regarding the item that you just mentioned, did you have the item during the months January 2024, February 2024, and March 2024?"
+tHFA_E030_5,tHFA_E030 SELECT THE RESPONSE THAT DESCRIBES WHO ANSWERED THE ABOVE HEALTH SURVEILLANCE ASSISTANT (HSA) QUESTIONS.
+Q13000,Q13000 Are antenatal care services offered in this facility?
+Q13001_01,Q13001_01 NUMBER OF DIFFERENT MONTHS FROM WHICH THE SAMPLE WAS SELECTED
+Q13001_02,Q13001_02 NUMBER OF ELIGIBLE CLIENTS IDENTIFIED
+Q13001_02A,Q13001_02A NUMBER OF ELIGIBLE CLIENTS SAMPLED
+Q13001_03,Q13001_03 NUMBER OF ORIGINALLY SELECTED SAMPLE CLIENTS REPLACED DUE TO MISSING INDIVIDUAL CLIENT RECORDS
+Q13001_04,"Q13001_04 SOURCE DATA FOR SAMPLE SELECTION: IF MORE THAN ONE SOURCE IS USED TO IDENTIFY THE SAMPLE, CIRCLE (ENTER RESPONSES FOR) ALL THAT APPLY"
+Q13001_04_ANTENATAL_CARE_REGISTER,Q13001_04_ANTENATAL_CARE_REGISTER
+Q13001_04_INDIVIDUAL_CLIENT_ANC_MNCH_PMTCT_CARDS_CHARTS_RECORDS,Q13001_04_INDIVIDUAL_CLIENT_ANC_MNCH_PMTCT_CARDS_CHARTS_RECORDS
+Q13001_04_PMTCT_REGISTER,Q13001_04_PMTCT_REGISTER
+Q13001_04_OUTPATIENT_DEPARTMENT_OPD_REGISTER,Q13001_04_OUTPATIENT_DEPARTMENT_OPD_REGISTER
+Q13001_04_LABORATORY_REGISTER,Q13001_04_LABORATORY_REGISTER
+Q13001_04_PHARMACY_REGISTER,Q13001_04_PHARMACY_REGISTER
+Q13001_04_LABOUR_AND_DELIVERY_REGISTER,Q13001_04_LABOUR_AND_DELIVERY_REGISTER
+Q13001_04_ITN_REGISTER,Q13001_04_ITN_REGISTER
+Q13001_04_OTHER_SPECIFY_,Q13001_04_OTHER_SPECIFY_
+Q13001_04A,Q13001_04A PLEASE SPECIFY OTHER
+RECORD_REVIEW_ANC_count,RECORD_REVIEW_ANC_count
+RR_ANC_Begin_1,"ENUMERATOR, DO YOU HAVE ANC CLIENT RECORDS WITH YOU FOR THE RECORD REVIEW?"
+Q13000_Client_ID_1,Client ID from the record register.
+Q13000_Client_Name_1,Client Name from the record register.
+Q13007_3_1,Q13007_3 Is there documentation at any visit that the client received 1 dose of IPT?
+Q13009_1_1,"HIV SERVICES
+Are any of the below recorded for any visit?"
+tHFA_F003_1,tHFA_F003 Is there documentation at any visit that the client received an HIV test during ANC?
+tHFA_F001_1,tHFA_F001 Is there documentation that the client is HIV positive (diagnosed either during or prior to her pregnancy)?
+tHFA_F004_1,"tHFA_F004 For HIV-positive women, is there documentation that the woman is on ART during pregnancy or breastfeeding?"
+TBSF002_A_1,TBSF002_A Is cough recorded as either present or absent?
+TBSF002_B_1,TBSF002_B Is fever recorded as either present or absent?
+TBSF002_C_1,TBSF002_C Are night sweats recorded as either present or absent?
+TBSF002_D_1,TBSF002_D Is weight loss recorded as either present or absent?
+Q13004_1_1,GENERAL ANC SERVICES. PLEASE ANSWER THE FOLLOWING QUESTIONS FOR THE MOST RECENT ANC VISIT
+Q13004_7_1,Q13004_7 Which ANC visit (number) does the most recent visit represent?
+Q13004_8_1,Q13004_8 Is the client’s blood pressure documented for the most recent visit?
+Q13004_10_1,Q13004_10 Is it documented that the client was provided or prescribed iron and folic acid during the most recent visit?
+Q13004_11_1,Q13004_11 Is there documentation that the client received counseling on pregnancy danger signs at the most recent visit?
+Q13005_1_1,Q13005_1 Is a syphilis blood test result documented at any ANC visit?
+Q13005_2_1,"Q13005_2 Is there documentation that the client received any medicine for the treatment of intestinal worms (e.g., albendazole, mebendazole)?"
+Q13005_5_1,Q13005_5 Is any hemoglobin or hematocrit result documented for any ANC visit during this pregnancy?
+RR_ANC_Begin_2,"ENUMERATOR, DO YOU HAVE ANC CLIENT RECORDS WITH YOU FOR THE RECORD REVIEW?"
+Q13000_Client_ID_2,Client ID from the record register.
+Q13000_Client_Name_2,Client Name from the record register.
+Q13007_3_2,Q13007_3 Is there documentation at any visit that the client received 1 dose of IPT?
+Q13009_1_2,Q13009_1 Was the client on tra prior to attending ANC?
+tHFA_F003_2,tHFA_F003 Is there documentation at any visit that the client received an HIV test during ANC?
+tHFA_F001_2,tHFA_F001 Is there documentation that the client is HIV positive (diagnosed either during or prior to her pregnancy)?
+tHFA_F004_2,"tHFA_F004 For HIV-positive women, is there documentation that the woman is on ART during pregnancy or breastfeeding?"
+TBSF002_A_2,TBSF002_A Is cough recorded as either present or absent?
+TBSF002_B_2,TBSF002_B Is fever recorded as either present or absent?
+TBSF002_C_2,TBSF002_C Are night sweats recorded as either present or absent?
+TBSF002_D_2,TBSF002_D Is weight loss recorded as either present or absent?
+Q13004_1_2,Q13004_1 What was the recorded gestational age (in weeks) at the most recent ANC visit?
+Q13004_7_2,Q13004_7 Which ANC visit (number) does the most recent visit represent?
+Q13004_8_2,Q13004_8 Is the client’s blood pressure documented for the most recent visit?
+Q13004_10_2,Q13004_10 Is it documented that the client was provided or prescribed iron and folic acid during the most recent visit?
+Q13004_11_2,Q13004_11 Is there documentation that the client received counseling on pregnancy danger signs at the most recent visit?
+Q13005_1_2,Q13005_1 Is a syphilis blood test result documented at any ANC visit?
+Q13005_2_2,"Q13005_2 Is there documentation that the client received any medicine for the treatment of intestinal worms (e.g., albendazole, mebendazole)?"
+Q13005_5_2,Q13005_5 Is any hemoglobin or hematocrit result documented for any ANC visit during this pregnancy?
+RR_ANC_Begin_3,"ENUMERATOR, DO YOU HAVE ANC CLIENT RECORDS WITH YOU FOR THE RECORD REVIEW?"
+Q13000_Client_ID_3,Client ID from the record register.
+Q13000_Client_Name_3,Client Name from the record register.
+Q13007_3_3,IPT SERVICES FOR MALARIA DOCUMENTED AT ANY VISIT
+Q13009_1_3,Q13009_1 Was the client on tra prior to attending ANC?
+tHFA_F003_3,tHFA_F003 Is there documentation at any visit that the client received an HIV test during ANC?
+tHFA_F001_3,tHFA_F001 Is there documentation that the client is HIV positive (diagnosed either during or prior to her pregnancy)?
+tHFA_F004_3,"tHFA_F004 For HIV-positive women, is there documentation that the woman is on ART during pregnancy or breastfeeding?"
+TBSF002_A_3,TBSF002_A Is cough recorded as either present or absent?
+TBSF002_B_3,TBSF002_B Is fever recorded as either present or absent?
+TBSF002_C_3,TBSF002_C Are night sweats recorded as either present or absent?
+TBSF002_D_3,TBSF002_D Is weight loss recorded as either present or absent?
+Q13004_1_3,Q13004_1 What was the recorded gestational age (in weeks) at the most recent ANC visit?
+Q13004_7_3,Q13004_7 Which ANC visit (number) does the most recent visit represent?
+Q13004_8_3,Q13004_8 Is the client’s blood pressure documented for the most recent visit?
+Q13004_10_3,Q13004_10 Is it documented that the client was provided or prescribed iron and folic acid during the most recent visit?
+Q13004_11_3,Q13004_11 Is there documentation that the client received counseling on pregnancy danger signs at the most recent visit?
+Q13005_1_3,Q13005_1 Is a syphilis blood test result documented at any ANC visit?
+Q13005_2_3,"Q13005_2 Is there documentation that the client received any medicine for the treatment of intestinal worms (e.g., albendazole, mebendazole)?"
+Q13005_5_3,Q13005_5 Is any hemoglobin or hematocrit result documented for any ANC visit during this pregnancy?
+RR_ANC_Begin_4,"ENUMERATOR, DO YOU HAVE ANC CLIENT RECORDS WITH YOU FOR THE RECORD REVIEW?"
+Q13000_Client_ID_4,Client ID from the record register.
+Q13000_Client_Name_4,Client Name from the record register.
+Q13007_3_4,Q13007_3 Is there documentation at any visit that the client received 1 dose of IPT?
+Q13009_1_4,Q13009_1 Was the client on tra prior to attending ANC?
+tHFA_F003_4,tHFA_F003 Is there documentation at any visit that the client received an HIV test during ANC?
+tHFA_F001_4,tHFA_F001 Is there documentation that the client is HIV positive (diagnosed either during or prior to her pregnancy)?
+tHFA_F004_4,"tHFA_F004 For HIV-positive women, is there documentation that the woman is on ART during pregnancy or breastfeeding?"
+TBSF002_A_4,TBSF002_A Is cough recorded as either present or absent?
+TBSF002_B_4,TBSF002_B Is fever recorded as either present or absent?
+TBSF002_C_4,TBSF002_C Are night sweats recorded as either present or absent?
+TBSF002_D_4,TBSF002_D Is weight loss recorded as either present or absent?
+Q13004_1_4,Q13004_1 What was the recorded gestational age (in weeks) at the most recent ANC visit?
+Q13004_7_4,Q13004_7 Which ANC visit (number) does the most recent visit represent?
+Q13004_8_4,Q13004_8 Is the client’s blood pressure documented for the most recent visit?
+Q13004_10_4,Q13004_10 Is it documented that the client was provided or prescribed iron and folic acid during the most recent visit?
+Q13004_11_4,Q13004_11 Is there documentation that the client received counseling on pregnancy danger signs at the most recent visit?
+Q13005_1_4,Q13005_1 Is a syphilis blood test result documented at any ANC visit?
+Q13005_2_4,"Q13005_2 Is there documentation that the client received any medicine for the treatment of intestinal worms (e.g., albendazole, mebendazole)?"
+Q13005_5_4,Q13005_5 Is any hemoglobin or hematocrit result documented for any ANC visit during this pregnancy?
+RR_ANC_Begin_5,"ENUMERATOR, DO YOU HAVE ANC CLIENT RECORDS WITH YOU FOR THE RECORD REVIEW?"
+Q13000_Client_ID_5,Client ID from the record register.
+Q13000_Client_Name_5,Client Name from the record register.
+Q13007_3_5,Q13007_3 Is there documentation at any visit that the client received 1 dose of IPT?
+Q13009_1_5,Q13009_1 Was the client on ART prior to attending ANC?
+tHFA_F003_5,tHFA_F003 Is there documentation at any visit that the client received an HIV test during ANC?
+tHFA_F001_5,tHFA_F001 Is there documentation that the client is HIV positive (diagnosed either during or prior to her pregnancy)?
+tHFA_F004_5,"tHFA_F004 For HIV-positive women, is there documentation that the woman is on ART during pregnancy or breastfeeding?"
+TBSF002_A_5,TBSF002_A Is cough recorded as either present or absent?
+TBSF002_B_5,TBSF002_B Is fever recorded as either present or absent?
+TBSF002_C_5,TBSF002_C Are night sweats recorded as either present or absent?
+TBSF002_D_5,TBSF002_D Is weight loss recorded as either present or absent?
+Q13004_1_5,Q13004_1 What was the recorded gestational age (in weeks) at the most recent ANC visit?
+Q13004_7_5,Q13004_7 Which ANC visit (number) does the most recent visit represent?
+Q13004_8_5,Q13004_8 Is the client’s blood pressure documented for the most recent visit?
+Q13004_10_5,Q13004_10 Is it documented that the client was provided or prescribed iron and folic acid during the most recent visit?
+Q13004_11_5,Q13004_11 Is there documentation that the client received counseling on pregnancy danger signs at the most recent visit?
+Q13005_1_5,Q13005_1 Is a syphilis blood test result documented at any ANC visit?
+Q13005_2_5,"Q13005_2 Is there documentation that the client received any medicine for the treatment of intestinal worms (e.g., albendazole, mebendazole)?"
+Q13005_5_5,Q13005_5 Is any hemoglobin or hematocrit result documented for any ANC visit during this pregnancy?
+Q13012,Q13012 ANY ISSUES OR EXPLANATIONS TO DOCUMENT RELATED TO THE RECORD REVIEW
+Q13012A,Q13012A IF YES PLEASE SPECIFY
+Q13400,Q13400 Does this facility offer ART services?
+Q13401_01,Q13401_01 NUMBER OF DIFFERENT MONTHS FROM WHICH THE SAMPLE WAS SELECTED
+Q13401_02,Q13401_02 NUMBER OF ELIGIBLE CLIENTS IDENTIFIED
+Q13401_02A,Q13401_03 NUMBER OF ELIGIBLE CLIENTS SAMPLED
+Q13401_03,Q13401_04 NUMBER OF ORIGINALLY SELECTED SAMPLE CLIENTS REPLACED DUE TO MISSING INDIVIDUAL CLIENT RECORDS
+Q13401_04,"Q13401_05 SOURCE DATA FOR SAMPLE SELECTION: IF MORE THAN ONE SOURCE IS USED TO IDENTIFY THE SAMPLE, CIRCLE (ENTER RESPONSES FOR) ALL THAT APPLY"
+Q13401_04_HIV_TESTING_REGISTER,Q13401_04_HIV_TESTING_REGISTER
+Q13401_04_ART_REGISTER,Q13401_04_ART_REGISTER
+Q13401_04_ART_ENROLLMENT_REGISTER,Q13401_04_ART_ENROLLMENT_REGISTER
+Q13401_04_ART_INITIATION_REGISTER,Q13401_04_ART_INITIATION_REGISTER
+Q13401_04_ART_TREATMENT_REGISTER,Q13401_04_ART_TREATMENT_REGISTER
+Q13401_04_INDIVIDUAL_ART_CLIENT_CARDS_CHARTS_RECORDS,Q13401_04_INDIVIDUAL_ART_CLIENT_CARDS_CHARTS_RECORDS
+Q13401_04_OTHER_SPECIFY_,Q13401_04_OTHER_SPECIFY_
+Q13401_04A,Q13401_05A PLEASE SPECIFY OTHER
+RECORD_REVIEW_ART_count,RECORD_REVIEW_ART_count
+RR_ART_Begin_1,"ENUMERATOR, DO YOU HAVE ART CLIENT RECORDS WITH YOU FOR THE RECORD REVIEW? "
+Q13400_Client_ID_1,Client ID from the record register.
+Q13400_Client_Name_1,Client Name from the record register.
+Q13408_01_1,Q13408_01 Is there documentation that the client was assessed for cough at the most recent visit?
+Q13408_02_1,Q13408_02 Is there a measured temperature or a comment on history of fever status documented at the most recent visit?
+Q13408_03_1,Q13408_03 Is there a measured weight or a comment on status of weight loss documented for the client at the most recent visit?
+tHFAG003_1,tHFAG003 Is there documentation that the client was assessed for night sweats at the most recent visit?
+tHFAG004_1,"tHFAG004 Is there documentation that the client was screened for TB at the most recent visit, but the documentation did not list the four TB symptoms (cough, fever, night sweats, weight loss)? For example, was the documentation something like: ""TB screening completed"" or ""TB screening negative""?"
+Q13408_08_1,Q13408_08 What was the client’s TB status at the most recent time this was documented?
+Q13408_09_1,Q13408_09 Is there documentation that the client is currently enrolled in TB treatment?
+tHFAG001_1,tHFAG001 Was the client’s blood pressure recorded at the most recent visit?
+tHFAG002_1,tHFAG002 Did the client begin ART at least 12 months ago?
+tHFAG005_1,"tHFAG005 If yes, has the patient been on ART at two time points at least 12 months apart?"
+RR_ART_Begin_2,"ENUMERATOR, DO YOU HAVE ART CLIENT RECORDS WITH YOU FOR THE RECORD REVIEW? "
+Q13400_Client_ID_2,Client ID from the record register.
+Q13400_Client_Name_2,Client Name from the record register.
+Q13408_01_2,Q13408_01 Is there documentation that the client was assessed for cough at the most recent visit?
+Q13408_02_2,Q13408_02 Is there a measured temperature or a comment on history of fever status documented at the most recent visit?
+Q13408_03_2,Q13408_03 Is there a measured weight or a comment on status of weight loss documented for the client at the most recent visit?
+tHFAG003_2,tHFAG003 Is there documentation that the client was assessed for night sweats at the most recent visit?
+tHFAG004_2,"tHFAG004 Is there documentation that the client was screened for TB at the most recent visit, but the documentation did not list the four TB symptoms (cough, fever, night sweats, weight loss)? For example, was the documentation something like: ""TB screening completed"" or ""TB screening negative""?"
+Q13408_08_2,Q13408_08 What was the client’s TB status at the most recent time this was documented?
+Q13408_09_2,Q13408_09 Is there documentation that the client is currently enrolled in TB treatment?
+tHFAG001_2,tHFAG001 Was the client’s blood pressure recorded at the most recent visit?
+tHFAG002_2,tHFAG002 Did the client begin ART at least 12 months ago?
+tHFAG005_2,"tHFAG005 If yes, has the patient been on ART at two time points at least 12 months apart?"
+RR_ART_Begin_3,"ENUMERATOR, DO YOU HAVE ART CLIENT RECORDS WITH YOU FOR THE RECORD REVIEW? "
+Q13400_Client_ID_3,Client ID from the record register.
+Q13400_Client_Name_3,Client Name from the record register.
+Q13408_01_3,Q13408_01 Is there documentation that the client was assessed for cough at the most recent visit?
+Q13408_02_3,Q13408_02 Is there a measured temperature or a comment on history of fever status documented at the most recent visit?
+Q13408_03_3,Q13408_03 Is there a measured weight or a comment on status of weight loss documented for the client at the most recent visit?
+tHFAG003_3,tHFAG003 Is there documentation that the client was assessed for night sweats at the most recent visit?
+tHFAG004_3,"tHFAG004 Is there documentation that the client was screened for TB at the most recent visit, but the documentation did not list the four TB symptoms (cough, fever, night sweats, weight loss)? For example, was the documentation something like: ""TB screening completed"" or ""TB screening negative""?"
+Q13408_08_3,Q13408_08 What was the client’s TB status at the most recent time this was documented?
+Q13408_09_3,Q13408_09 Is there documentation that the client is currently enrolled in TB treatment?
+tHFAG001_3,tHFAG001 Was the client’s blood pressure recorded at the most recent visit?
+tHFAG002_3,tHFAG002 Did the client begin ART at least 12 months ago?
+tHFAG005_3,"tHFAG005 If yes, has the patient been on ART at two time points at least 12 months apart?"
+RR_ART_Begin_4,"ENUMERATOR, DO YOU HAVE ART CLIENT RECORDS WITH YOU FOR THE RECORD REVIEW? "
+Q13400_Client_ID_4,Client ID from the record register.
+Q13400_Client_Name_4,Client Name from the record register.
+Q13408_01_4,Q13408_01 Is there documentation that the client was assessed for cough at the most recent visit?
+Q13408_02_4,Q13408_02 Is there a measured temperature or a comment on history of fever status documented at the most recent visit?
+Q13408_03_4,Q13408_03 Is there a measured weight or a comment on status of weight loss documented for the client at the most recent visit?
+tHFAG003_4,tHFAG003 Is there documentation that the client was assessed for night sweats at the most recent visit?
+tHFAG004_4,"tHFAG004 Is there documentation that the client was screened for TB at the most recent visit, but the documentation did not list the four TB symptoms (cough, fever, night sweats, weight loss)? For example, was the documentation something like: ""TB screening completed"" or ""TB screening negative""?"
+Q13408_08_4,Q13408_08 What was the client’s TB status at the most recent time this was documented?
+Q13408_09_4,Q13408_09 Is there documentation that the client is currently enrolled in TB treatment?
+tHFAG001_4,tHFAG001 Was the client’s blood pressure recorded at the most recent visit?
+tHFAG002_4,tHFAG002 Did the client begin ART at least 12 months ago?
+tHFAG005_4,"tHFAG005 If yes, has the patient been on ART at two time points at least 12 months apart?"
+RR_ART_Begin_5,"ENUMERATOR, DO YOU HAVE ART CLIENT RECORDS WITH YOU FOR THE RECORD REVIEW? "
+Q13400_Client_ID_5,Client ID from the record register.
+Q13400_Client_Name_5,Client Name from the record register.
+Q13408_01_5,Q13408_01 Is there documentation that the client was assessed for cough at the most recent visit?
+Q13408_02_5,Q13408_02 Is there a measured temperature or a comment on history of fever status documented at the most recent visit?
+Q13408_03_5,Q13408_03 Is there a measured weight or a comment on status of weight loss documented for the client at the most recent visit?
+tHFAG003_5,tHFAG003 Is there documentation that the client was assessed for night sweats at the most recent visit?
+tHFAG004_5,"tHFAG004 Is there documentation that the client was screened for TB at the most recent visit, but the documentation did not list the four TB symptoms (cough, fever, night sweats, weight loss)? For example, was the documentation something like: ""TB screening completed"" or ""TB screening negative""?"
+Q13408_08_5,Q13408_08 What was the client’s TB status at the most recent time this was documented?
+Q13408_09_5,Q13408_09 Is there documentation that the client is currently enrolled in TB treatment?
+tHFAG001_5,tHFAG001 Was the client’s blood pressure recorded at the most recent visit?
+tHFAG002_5,tHFAG002 Did the client begin ART at least 12 months ago?
+tHFAG005_5,"tHFAG005 If yes, has the patient been on ART at two time points at least 12 months apart?"
+Q13411,Q13411 ANY ISSUES OR EXPLANATIONS TO DOCUMENT RELATED TO THE RECORD REVIEW
+Q13411A,Q13411A IF YES PLEASE SPECIFY
+Q13500,Q13500 Does this facility offer any tuberculosis client care services?
+Q13502_01,Q13502_01 NUMBER OF DIFFERENT MONTHS FROM WHICH THE SAMPLE WAS SELECTED
+Q13502_02,Q13502_02 NUMBER OF ELIGIBLE CLIENTS IDENTIFIED
+Q13502_02A,Q13502_02A NUMBER OF ELIGIBLE CLIENTS SAMPLED
+Q13502_03,Q13502_03 NUMBER OF ORIGINALLY SELECTED SAMPLE CLIENTS REPLACED DUE TO MISSING INDIVIDUAL CLIENT RECORDS
+Q13502_04,"Q13502_04 SOURCE DATA FOR SAMPLE SELECTION: IF MORE THAN ONE SOURCE IS USED TO IDENTIFY THE SAMPLE, CIRCLE (ENTER RESPONSES FOR) ALL THAT APPLY"
+Q13502_04_TB_CASE_REGISTER,Q13502_04_TB_CASE_REGISTER
+Q13502_04_INDIVIDUAL_TB_CLIENT_CARDS_CHARTS_RECORDS,Q13502_04_INDIVIDUAL_TB_CLIENT_CARDS_CHARTS_RECORDS
+Q13502_04_LABORATORY_REGISTER,Q13502_04_LABORATORY_REGISTER
+Q13502_04_OTHER_SPECIFY_,Q13502_04_OTHER_SPECIFY_
+Q13502_04A,Q13502_04A PLEASE SPECIFY OTHER
+RECORD_REVIEW_TB_count,RECORD_REVIEW_TB_count
+RR_TB_Begin_1,"ENUMERATOR, DO YOU HAVE TB CLIENT RECORDS WITH YOU FOR THE RECORD REVIEW? "
+Q13500_Client_ID_1,Client ID from the record register.
+Q13500_Client_Name_1,Client Name from the record register.
+Q13506_04_1,Q13506_04 Was the client successfully treated (either documented as cured or completed treatment at the end of the treatment period)?
+Q13507_01_1,Q13507_01 Was an HIV test result documented for the client?
+Q13510_01_1,Q13510_01 Is a clinical assessment of changes in symptoms documented every clinical visit?
+RR_TB_Begin_2,"ENUMERATOR, DO YOU HAVE TB CLIENT RECORDS WITH YOU FOR THE RECORD REVIEW? "
+Q13500_Client_ID_2,Client ID from the record register.
+Q13500_Client_Name_2,Client Name from the record register.
+Q13506_04_2,Q13506_04 Was the client successfully treated (either documented as cured or completed treatment at the end of the treatment period)?
+Q13507_01_2,Q13507_01 Was an HIV test result documented for the client?
+Q13510_01_2,Q13510_01 Is a clinical assessment of changes in symptoms documented every clinical visit?
+RR_TB_Begin_3,"ENUMERATOR, DO YOU HAVE TB CLIENT RECORDS WITH YOU FOR THE RECORD REVIEW? "
+Q13500_Client_ID_3,Client ID from the record register.
+Q13500_Client_Name_3,Client Name from the record register.
+Q13506_04_3,Q13506_04 Was the client successfully treated (either documented as cured or completed treatment at the end of the treatment period)?
+Q13507_01_3,Q13507_01 Was an HIV test result documented for the client?
+Q13510_01_3,Q13510_01 Is a clinical assessment of changes in symptoms documented every clinical visit?
+RR_TB_Begin_4,"ENUMERATOR, DO YOU HAVE TB CLIENT RECORDS WITH YOU FOR THE RECORD REVIEW? "
+Q13500_Client_ID_4,Client ID from the record register.
+Q13500_Client_Name_4,Client Name from the record register.
+Q13506_04_4,Q13506_04 Was the client successfully treated (either documented as cured or completed treatment at the end of the treatment period)?
+Q13507_01_4,Q13507_01 Was an HIV test result documented for the client?
+Q13510_01_4,Q13510_01 Is a clinical assessment of changes in symptoms documented every clinical visit?
+RR_TB_Begin_5,"ENUMERATOR, DO YOU HAVE TB CLIENT RECORDS WITH YOU FOR THE RECORD REVIEW? "
+Q13500_Client_ID_5,Client ID from the record register.
+Q13500_Client_Name_5,Client Name from the record register.
+Q13506_04_5,Q13506_04 Was the client successfully treated (either documented as cured or completed treatment at the end of the treatment period)?
+Q13507_01_5,Q13507_01 Was an HIV test result documented for the client?
+Q13510_01_5,Q13510_01 Is a clinical assessment of changes in symptoms documented every clinical visit?
+Q13513,Q13513 ANY ISSUES OR EXPLANATIONS TO DOCUMENT RELATED TO THE RECORD REVIEW
+Q13513A,Q13513A IF YES PLEASE SPECIFY
+CS_Q1,Question 1
+CS_R1,Response for ${CS_Q1}
+CS_Q2,Question 2
+CS_R2,Response for ${CS_Q2}
+CS_Q3,Question 3
+CS_R3,Response for ${CS_Q3}
+CS_Q4,Question 4
+CS_R4,Response for ${CS_Q4}
+CS_Q5,Question 5
+CS_R5,Response for ${CS_Q5}
+CS_Q6,Question 6
+CS_R6,Response for ${CS_Q6}
+CS_Q7,Question 7
+CS_R7,Response for ${CS_Q7}
+CS_Q8,Question 8
+CS_R8,Response for ${CS_Q8}
+CS_Q9,Question 9
+CS_R9,Response for ${CS_Q9}
+CS_Q10,Question 10
+CS_R10,Response for ${CS_Q10}
+Q107_1,Q107_1 Which visit is this to this facility?
+Q107_2,Q107_2 Date for first Visit
+Q107_3,Q107_3 RESULT CODE for first Visit
+Q107_4,Q107_4 Date for second Visit
+Q107_5,Q107_5 RESULT CODE for second Visit
+Q107_6,Q107_6 Date for third Visit
+Q107_7,Q107_7 RESULT CODE for third Visit
+instanceID,instanceID
+formdef_version,formdef_version
+KEY,KEY
+review_quality,review_quality
+review_comments,review_comments
+review_corrections,review_corrections
