@@ -1,0 +1,19 @@
+{
+   "summary_slide": { 
+
+    },
+    "average-donut_slide": {
+        "high-quality-service":{
+            "chart_shape": 4,
+            "number_text": 7
+        },
+        "supportive-supervision":{
+            "chart_shape": 9,
+            "number_text": 12
+        },
+        "integrated-HTM-ANC":{
+            "chart_shape": 14,
+            "number_text": 17
+        }
+    }
+}
