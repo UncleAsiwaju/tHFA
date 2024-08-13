@@ -1,0 +1,24 @@
+* Recode responses indicating "No Problem" to 1
+	replace thfa_d011_no_problem = 1 if regexm(lower(thfa_d011_1), "(aucun problème|aucun|pas de problème|aucun défis a signaler|rien à signaler|pas de problème avec la fosa|il est satisfait des soins de l’établissement|ras|no problem|no challenge faced)")	
+	replace thfa_d011_no_problem = 1 if lower(thfa_d011_1) == "i don't see any challenges" | lower(thfa_d011_1) == "no any challenge encountered" | lower(thfa_d011_1) == "no any challenges"
+	replace thfa_d011_no_problem = 1 if strpos(lower(thfa_d011_1), "no problem") > 0
+	replace thfa_d011_no_problem = 1 if strpos(lower(thfa_d011_1), "she has never faced any challenges") > 0
+	replace thfa_d011_no_problem = 1 if strpos(lower(thfa_d011_1), "she said all is well") > 0
+	replace thfa_d011_no_problem = 1 if strpos(lower(thfa_d011_1), "none") > 0
+	replace thfa_d011_no_problem = 1 if strpos(lower(thfa_d011_1), "tidak masalah") > 0
+	replace thfa_d011_no_problem = 1 if strpos(lower(thfa_d011_1), "tidak ada masalah") > 0	
+	replace thfa_d011_no_problem = 1 if strpos(lower(thfa_d011_1), "tidak ada") > 0	
+	replace thfa_d011_no_problem = 1 if strpos(lower(thfa_d011_1), "no issues") > 0
+	replace thfa_d011_no_problem = 1 if strpos(lower(thfa_d011_1), "no issue") > 0
+	replace thfa_d011_no_problem = 1 if strpos(lower(thfa_d011_1), "no challenges") > 0	
+	replace thfa_d011_no_problem = 1 if strpos(lower(thfa_d011_1), "no problems") > 0
+	replace thfa_d011_no_problem = 1 if strpos(lower(thfa_d011_1), "aucun problème") > 0
+	replace thfa_d011_no_problem = 1 if strpos(lower(thfa_d011_1), "aucun probleme") > 0
+	replace thfa_d011_no_problem = 1 if strpos(lower(thfa_d011_1), "no challenge") > 0	
+	replace thfa_d011_no_problem = 1 if strpos(lower(thfa_d011_1), "very satisfied") > 0
+	replace thfa_d011_no_problem = 1 if strpos(lower(thfa_d011_1), "pas de problème") > 0
+	replace thfa_d011_no_problem = 1 if lower(thfa_d011_1) == "aucun" | lower(thfa_d011_1) == "aucun problème vraiment" | lower(thfa_d011_1) == "aucun problème particulier"
+	replace thfa_d011_no_problem = 1 if thfa_d011_1 == "aucun problÈme"
+	replace thfa_d011_no_problem = 1 if thfa_d011_1 == "pas de problÈme"	
+	replace thfa_d011_no_problem = 1 if inlist(thfa_d011_1, "everything is fine", "everything is good", "everything is ok", "it's fine", "it's cool", "it's ok", "tidak bermasalah")
+	replace thfa_d011_no_problem = 1 if lower(thfa_d011_1) == "it's my first time here"
