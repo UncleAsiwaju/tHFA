@@ -1,7 +1,17 @@
 {
    "summary_slide": { 
+        "summary": {
+            "number_text": 31
+        },
+        "key-insights": {
+            "number_text": 32
+        },
+        "data":{
+            "chart_shape": 8
+        }
 
     },
+
     "average-donut_slide": {
         "high-quality-service":{
             "chart_shape": 4,
