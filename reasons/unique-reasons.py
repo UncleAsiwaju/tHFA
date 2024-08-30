@@ -5,12 +5,13 @@ import numpy as np
 countries = [
     # 'GHA',
     # 'GMB',
-    'IDN',
-    # 'LBR',
-    'MDG',
+    # 'IDN',
+    # # 'LBR',
+    # 'MDG',
     # 'MWI',
     # 'NGA',
     # 'UGA',
+    'COG'
 ]
 
 for country in countries:
@@ -32,7 +33,7 @@ for country in countries:
     unique_reasons = np.unique(reasons)
     unique_reasons
 
-    np.savetxt(f'reasons_{country}.txt', unique_reasons, fmt='%s')
+    np.savetxt(f'./reasons/reasons_{country}.txt', unique_reasons, fmt='%s')
     print(f'Done for {country}')
 
 # file_name = ''
