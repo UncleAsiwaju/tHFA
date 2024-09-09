@@ -11,7 +11,8 @@ countries = [
     # 'MWI',
     # 'NGA',
     # 'UGA',
-    'COG'
+    # 'COG',
+    'MOZ'
 ]
 
 for country in countries:
