@@ -1,0 +1,121 @@
+,0
+Q102,object
+Q105,object
+Q106,object
+Q105_a,object
+Q113,object
+Q113_A,object
+Q116,object
+Q116_A,object
+Q117,object
+Q118,object
+tHFA_A001,object
+tHFA_A002,object
+HIV,int64
+TB,int64
+Malaria,int64
+ANC,int64
+Immu,int64
+Quality_Score,float64
+HW_Competence_Score,float64
+HW_Check,object
+ANC_score,float64
+ART_score,float64
+TB_score,float64
+Patient_Centeredness_Score,float64
+PC_Individuals,object
+PC_attributes,object
+PC_avg_Communication,float64
+PC_avg_Respect,float64
+PC_avg_Autonomy,float64
+PC_avg_Confidentiality,float64
+PC_avg_Social support,float64
+PC_avg_HW told,float64
+PC_avg_Danger signs,float64
+PC_avg_Rudeness,float64
+PC_avg_Challenges,float64
+iss_score,float64
+iss_check,object
+fac_iss,int64
+fac_tech,float64
+fac_stats,float64
+fac_group_PS,float64
+fac_comms_data,float64
+HTM-ANC,float64
+hiv testing,float64
+ART access,float64
+iptp scores,float64
+TB screening,float64
+system_CHW_score,float64
+chw_count,int64
+chw_show,object
+chw_iss,float64
+chw_contract,float64
+chw_paid,float64
+chw_tools,float64
+facility_composite,float64
+HTM-ANC,float64
+presence_score,float64
+caseload,float64
+ANC_score,float64
+DPT_score,float64
+TB_treatment_completion,float64
+ART_retention,float64
+CHW_count,int64
+CHW_paid,float64
+CHW_scores,object
+CLM_score,float64
+comm_data_collectors,float64
+quarterly_feedback,float64
+comm_data_analysis,float64
+CLM_aware,float64
+CLM_promotion,float64
+client_feedback,float64
+guideline_score,float64
+guide_HIV_test,float64
+guide_ART,float64
+guide_TB,float64
+guide_malaria,float64
+guide_anc,float64
+guide_immu,float64
+guide_imci,float64
+oxygen_score,float64
+oxygen_avl,float64
+oxygen_avo,float64
+test-capac,float64
+fac_has_lab,float64
+fac_test_no_lab,float64
+fac_no_test,float64
+score with lab,float64
+score without lab,float64
+Antibodies to HIV 1/2 (anti HIV Ab),float64
+Qualitative (EID) or quantitative (viral load) HIV nucleic acid test (NAT),float64
+CD4 cell enumeration,float64
+Antibodies to Treponema pallidum OR Combined antibodies to T. pallidum and HIV 1/2,float64
+Lipoarabinomannan (LAM) antigen,float64
+Mycobacterium tuberculosis bacteria,float64
+M. tuberculosis DNA,float64
+Drug susceptibility testing of M. tuberculosis culture,float64
+Plasmodium spp. antigens; species-specific (e.g. HRP2) and/or pan species-specific (e.g. pan-pLDH),float64
+Staining procedures,float64
+Culture OR Culture and Genus and species identification of bacteria and fungi,float64
+Antimicrobial susceptibility testing (AST),float64
+C-reactive protein (CRP),float64
+"Complete blood count (CBC), automated",float64
+Prothrombin time and international normalized ratio (PT/INR),float64
+Blood culture,float64
+Blood gas,float64
+Glucose,float64
+Liver profile/Liver Function test,float64
+Renal function test,float64
+SARS-CoV-2 test,float64
+Hepatitis B surface antigen (HBsAg),float64
+Influenza A and B antigen,float64
+Influenza A and B diagnostic,float64
+"Qualitative dengue virus nucleic acid test, Dengue virus IgM antibody or Dengue virus antigen (NS1)",float64
+Qualitative nucleic acid test (NAT) for Chlamydia trachomatis (CT) and Neisseria gonorrhoeae (NG) infections,float64
+Measles nucleic acid test or Measle serology,float64
+Vibrio cholerae antigen,float64
+vacancy_score,float64
+all_funded_posts,float64
+all_unfilled_posts,float64
