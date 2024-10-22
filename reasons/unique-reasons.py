@@ -12,7 +12,8 @@ countries = [
     # 'NGA',
     # 'UGA',
     # 'COG',
-    'MOZ'
+    # 'MOZ',
+    'TZA'
 ]
 
 for country in countries:
@@ -21,8 +22,12 @@ for country in countries:
 
     # Load and treat file
     df = pd.read_excel(file_path, header=None)
-    df.columns = df.iloc[0]
-    df = df[1:]
+    if "Q100" in list(df.iloc[0]):
+        df.columns = df.iloc[0]
+        df = df[1:]
+    else:
+        df.columns = df.iloc[1]
+        df = df[2:]
     df.set_index('Q100', inplace=True)
 
     # Select reasons column and transform to text file
